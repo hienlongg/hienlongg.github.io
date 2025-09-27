@@ -5,11 +5,12 @@ lastUpdated: '2024-01-15'
 
 # Dương Hứa Toàn (Tony)
 
-## 🚀 Expert Software Engineer
+## Computer Science Student & AI Enthusiast
 
-Accomplished IT professional with over 15 years of experience in the technology industry, specializing in dynamic startup environments. Demonstrated expertise in delivering comprehensive end-to-end solutions throughout the complete software development lifecycle, encompassing system analysis, architectural design, full-stack development, team leadership, and production deployment.
+I am a passionate and enthusiastic computer science student at Ho Chi Minh University of Science with an unwavering eagerness to learn and grow in the technology field. My strong mathematical foundation has naturally led me to pursue a specialized 1-year AI course, where I'm diving deep into the fascinating world of artificial intelligence and machine learning.
 
-Having dedicated 90% of my career to startup environments, I excel in fast-paced, high-demand settings that require exceptional adaptability, continuous self-learning, and end-to-end ownership. I possess advanced proficiency in designing scalable software architectures and cloud-native solutions, with the ability to rapidly adopt emerging technologies as needed. My startup experience has cultivated a versatile skill set that enables me to seamlessly transition between multiple roles—whether developing code, architecting systems, or leading cross-functional teams—all while maintaining a focus on delivering tangible business value to customers.
+What drives me is my genuine enthusiasm for technology and my commitment to continuous learning. I believe that with my solid mathematical background and analytical mindset, combined with my dedication to mastering new concepts, I can contribute meaningfully to innovative projects while constantly expanding my knowledge and skills in this rapidly evolving field. 
+
 
 <!-- [Get PDF version](#){ .md-button .md-button--primary } -->
 
