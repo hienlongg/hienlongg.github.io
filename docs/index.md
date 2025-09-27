@@ -1,13 +1,13 @@
 ---
-title: 'Dương Hứa Toàn (Tony) - Expert Software Engineer'
-lastUpdated: '2024-01-15'
+title: 'Trương Hiển Long - IT Student & AI Enthusiast'
+lastUpdated: '2025-09-27'
 ---
 
-# Dương Hứa Toàn (Tony)
+# Trương Hiển Long
 
-## Computer Science Student & AI Enthusiast
+## IT Student & AI Enthusiast
 
-I am a passionate and enthusiastic computer science student at Ho Chi Minh University of Science with an unwavering eagerness to learn and grow in the technology field. My strong mathematical foundation has naturally led me to pursue a specialized 1-year AI course, where I'm diving deep into the fascinating world of artificial intelligence and machine learning.
+I am a passionate and enthusiastic IT student at Ho Chi Minh University of Science with an unwavering eagerness to learn and grow in the technology field. My strong mathematical foundation has naturally led me to pursue a specialized 1-year AI course, where I'm diving deep into the fascinating world of artificial intelligence and machine learning.
 
 What drives me is my genuine enthusiasm for technology and my commitment to continuous learning. I believe that with my solid mathematical background and analytical mindset, combined with my dedication to mastering new concepts, I can contribute meaningfully to innovative projects while constantly expanding my knowledge and skills in this rapidly evolving field. 
 
@@ -29,11 +29,10 @@ What drives me is my genuine enthusiasm for technology and my commitment to cont
 
 ## 📞 Contact Information
 
-- **Phone:** [+84.395.212.532 (VN)](https://zalo.me/0395212532)
-- **Email:** [huatoan.duong@gmail.com](mailto:huatoan.duong@gmail.com)
-- **Facebook:** [https://www.facebook.com/huatoan.duong](https://www.facebook.com/huatoan.duong)
-- **LinkedIn:** [https://www.linkedin.com/in/huatoanduong/](https://www.linkedin.com/in/huatoanduong/)
-<!-- - **Skype:** go_with_me2005 -->
+- **Phone:** [+84.944.679.025 (VN)](https://zalo.me/0944679025)
+- **Email:** [hienlong106@gmail.com](mailto:hienlong106@gmail.com)
+- **Facebook:** [https://www.facebook.com/truonghienlongg](https://www.facebook.com/truonghienlongg)
+- **LinkedIn:** [https://www.linkedin.com/in/long-truong-0b0597243/](https://www.linkedin.com/in/long-truong-0b0597243/)
 
 ---
 
@@ -793,28 +792,16 @@ What drives me is my genuine enthusiasm for technology and my commitment to cont
   </thead>
   <tbody>
     <tr>
-      <td><strong>Bachelor Degree of Information Technology</strong></td>
-      <td>Hoa Sen University</td>
-      <td>2012</td>
-      <td>GPA: 3.12 / 4.0</td>
+      <td><strong>Sophomore of Information Technology</strong></td>
+      <td>University of Science - VNUHCM</td>
+      <td>2025</td>
+      <td>GPA: 3.63/ 4.0</td>
     </tr>
     <tr>
-      <td><strong>TOEIC Certificate</strong></td>
-      <td>IIG Vietnam</td>
-      <td>2009</td>
-      <td>700 points</td>
-    </tr>
-    <tr>
-      <td><strong>Consolation Prize of Hoa Sen University Scientific Research Awards</strong></td>
-      <td>Hoa Sen University</td>
-      <td>Aug 2012</td>
-      <td>Consolation Prize</td>
-    </tr>
-    <tr>
-      <td><strong>Fundamental of Engineering (FE) (Japanese) Certificate</strong></td>
-      <td>Hoa Sen University</td>
-      <td>Oct 2012</td>
-      <td>1295 points</td>
+      <td><strong>IELTS</strong></td>
+      <td>CAMBRIDGE ENGLISH/ BRITISH COUNCIL/ IDP:IA</td>
+      <td>2024</td>
+      <td>6.0 (L: 6, R: 7.5, W: 6.5, S: 4.5)</td>
     </tr>
   </tbody>
 </table>
