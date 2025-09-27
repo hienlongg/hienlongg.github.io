@@ -799,7 +799,7 @@ What drives me is my genuine enthusiasm for technology and my commitment to cont
     </tr>
     <tr>
       <td><strong>IELTS</strong></td>
-      <td>CAMBRIDGE ENGLISH/ BRITISH COUNCIL/ IDP:IA</td>
+      <td>The British Council</td>
       <td>2024</td>
       <td>6.0 (L: 6, R: 7.5, W: 6.5, S: 4.5)</td>
     </tr>

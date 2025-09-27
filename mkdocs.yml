@@ -1,11 +1,11 @@
-site_name: Toàn Dương
+site_name: Hiển Long
 site_description: Professional resume and portfolio website
-site_author: Dương Hứa Toàn (Tony)
-site_url: https://huatoanduong.github.io
+site_author: Trương Hiển Long
+site_url: https://hienlongg.github.io
 
 # Repository
-repo_name: huatoanduong/huatoanduong.github.io
-repo_url: https://github.com/huatoanduong/huatoanduong.github.io
+repo_name: hienlongg/hienlongg.github.io
+repo_url: https://github.com/hienlongg/hienlongg.github.io
 edit_uri: edit/main/docs/
 
 docs_dir: docs
