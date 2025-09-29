@@ -48,7 +48,11 @@ What drives me is my genuine enthusiasm for technology and my commitment to cont
   <tbody>
     <tr>
       <td><strong>Programming Languages</strong></td>
-      <td><strong>C++</strong> (Advanced), <strong>C</strong> (Intermediate), <strong>Python</strong> (Intermediate - AI/ML focused)</td>
+      <td><strong>C++</strong> (Advanced), <strong>Python</strong> (Advanced - AI/ML focused), <strong>C</strong> (Intermediate)</td>
+    </tr>
+    <tr>
+      <td><strong>Python Libraries & Frameworks</strong></td>
+      <td>NumPy, Streamlit, PyTorch, Pandas, Matplotlib, Scikit-learn</td>
     </tr>
     <tr>
       <td><strong>Software Development</strong></td>
@@ -59,8 +63,16 @@ What drives me is my genuine enthusiasm for technology and my commitment to cont
       <td>CMake, Git, GitHub, Visual Studio, Code::Blocks</td>
     </tr>
     <tr>
-      <td><strong>AI & Machine Learning</strong></td>
-      <td>Currently studying: Neural Networks, Deep Learning, Machine Learning Algorithms, Mathematical Foundations for AI</td>
+      <td><strong>Machine Learning Algorithms</strong></td>
+      <td>Naïve Bayes Classifier, Decision Trees, K-Nearest Neighbors (KNN), K-Means Clustering, Linear Regression, Neural Networks</td>
+    </tr>
+    <tr>
+      <td><strong>AI & Data Science Techniques</strong></td>
+      <td>Text Classification, Natural Language Processing, Computer Vision (IoU, Non-maximum Suppression), Statistical Analysis, Similarity Metrics (Cosine Similarity)</td>
+    </tr>
+    <tr>
+      <td><strong>Data Processing & Analysis</strong></td>
+      <td>Data Preprocessing, Text Processing, Feature Engineering, Data Visualization, Correlation Analysis, Probability Theory Applications</td>
     </tr>
     <tr>
       <td><strong>Mathematics & Analytics</strong></td>
@@ -215,6 +227,71 @@ What drives me is my genuine enthusiasm for technology and my commitment to cont
           <li><strong>Object-Oriented Design Patterns</strong> - Clean architecture and modular programming</li>
           <li><strong>Game Development Concepts</strong> - Game loops, entity management, collision detection</li>
           <li><strong>Cross-platform Development</strong> - Ensuring compatibility across different systems</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### AIO-2025 AI/ML Learning Journey
+
+**AI/ML Student & Practitioner** | _2025 - Current_
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Learning Program</strong></td>
+      <td>
+        <strong>Comprehensive AI/ML Curriculum</strong> - Intensive hands-on learning journey covering fundamental to advanced machine learning concepts, from basic statistical methods to deep learning implementations. Focus on practical application through real-world projects and end-to-end ML pipeline development.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Key Projects & Implementations</strong></td>
+      <td>
+        <ul>
+          <li>Developed comprehensive machine learning solutions using Python, implementing classification models with Naïve Bayes and Decision Trees</li>
+          <li>Built and deployed web applications using Streamlit for model demonstration and real-time predictions</li>
+          <li>Implemented computer vision algorithms including IoU calculations and Non-maximum Suppression for object detection optimization</li>
+          <li>Created custom PyTorch classes demonstrating advanced object-oriented programming skills and deep learning framework integration</li>
+          <li>Designed text classification systems for news article topic categorization, applying NLP techniques and feature engineering</li>
+          <li>Developed data analysis pipelines using NumPy for efficient vector/matrix operations and statistical computations</li>
+          <li>Built intelligent chatbot systems using rule-based approaches and word suggestion algorithms</li>
+          <li>Applied K-Means clustering algorithm for data segmentation and pattern recognition</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technical Achievements</strong></td>
+      <td>
+        <ul>
+          <li><strong>End-to-End ML Pipeline:</strong> Successfully implemented complete machine learning workflows from data preprocessing to model deployment</li>
+          <li><strong>Statistical Analysis Mastery:</strong> Applied correlation coefficients, probability theory, and statistical methods to real-world AI problems</li>
+          <li><strong>Algorithm Implementation:</strong> Built classification, clustering, and similarity matching algorithms from scratch</li>
+          <li><strong>Web Deployment:</strong> Created interactive web applications for ML model demonstration using Streamlit</li>
+          <li><strong>Computer Vision:</strong> Implemented advanced CV techniques for object detection and image analysis</li>
+          <li><strong>Natural Language Processing:</strong> Developed text processing and classification systems with high accuracy</li>
+          <li><strong>Mathematical Foundation:</strong> Applied linear algebra, calculus, and statistics to optimize ML algorithms</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies & Tools</strong></td>
+      <td>
+        <ul>
+          <li><strong>Python & Libraries:</strong> NumPy, PyTorch, Streamlit, Pandas, Matplotlib, Scikit-learn</li>
+          <li><strong>Machine Learning:</strong> Classification (Naïve Bayes, Decision Trees, KNN), Clustering (K-Means), Neural Networks</li>
+          <li><strong>Data Science:</strong> Statistical analysis, correlation analysis, data visualization, feature engineering</li>
+          <li><strong>Computer Vision:</strong> IoU, Non-maximum Suppression, Top-K searching, object detection</li>
+          <li><strong>NLP:</strong> Text preprocessing, classification, similarity metrics, chatbot development</li>
+          <li><strong>Deployment:</strong> Streamlit web applications, model serving, real-time prediction systems</li>
         </ul>
       </td>
     </tr>
