@@ -1,6 +1,6 @@
 ---
 title: 'Trương Hiển Long - IT Student & AI Enthusiast'
-lastUpdated: '2025-09-27'
+lastUpdated: '2026-01-19'
 ---
 
 # Trương Hiển Long
@@ -50,7 +50,7 @@ What drives me is solving complex problems through elegant engineering—from ar
   <tbody>
     <tr>
       <td><strong>Programming Languages</strong></td>
-      <td><strong>Python</strong> (Advanced - AI/ML/Backend), <strong>C++</strong> (Advanced), <strong>TypeScript</strong> (Intermediate), <strong>C</strong> (Intermediate)</td>
+      <td><strong>Python</strong>, <strong>C++</strong>
     </tr>
     <tr>
       <td><strong>AI/ML Frameworks</strong></td>
@@ -560,7 +560,7 @@ What drives me is solving complex problems through elegant engineering—from ar
     <tr>
       <td><strong>Sophomore of Information Technology</strong></td>
       <td>University of Science - VNUHCM</td>
-      <td>2025</td>
+      <td>2024</td>
       <td>GPA: 3.63/ 4.0</td>
     </tr>
     <tr>
