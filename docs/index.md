@@ -486,7 +486,7 @@ What drives me is solving complex problems through elegant engineering—from ar
 
 ### AIO-2025 AI/ML Learning Journey
 
-**AI/ML Student & Practitioner** | _2025 - Current_
+**AI/ML Student & Practitioner** | _2025 - Current_ | **8 / 12 Modules Completed**
 
 <table>
   <thead>
@@ -508,11 +508,13 @@ What drives me is solving complex problems through elegant engineering—from ar
         <ul>
           <li><strong>Classical ML Algorithms:</strong> Implemented K-Means Clustering, K-Nearest Neighbors (KNN), Decision Trees (classification & regression), Linear Regression (L1, L2, Huber losses with vectorization), Logistic Regression, Softmax Regression from scratch</li>
           <li><strong>Neural Networks:</strong> Built Multilayer Perceptron for images/text/tabular data, CNN architectures, RNN/LSTM/GRU for sequences, implemented Batch Normalization, Skip Connections</li>
-          <li><strong>Advanced Architectures:</strong> Studied and implemented Transformers and Vision Transformers (ViT) fundamentals</li>
+          <li><strong>Advanced Architectures:</strong> Studied Transformers, Vision Transformers (ViT), ConvNeXt (hybrid CNN+Transformer), Swin Transformer; explored modern deep learning design patterns</li>
+          <li><strong>Model Optimization:</strong> Knowledge Distillation and Quantization for model compression; ONNX-TensorRT for deployment optimization; Transfer Learning and proper Model Initialization strategies</li>
           <li><strong>Mathematical Foundations:</strong> Derived gradient descent, backpropagation, loss functions (MSE, cross-entropy) from first principles; mastered vectorization techniques with NumPy</li>
           <li><strong>PyTorch Fundamentals:</strong> Implemented regression and classification models using PyTorch framework, understanding autograd and tensor operations</li>
-          <li><strong>Optimization Techniques:</strong> Explored genetic algorithms for optimization problems, applied to Linear Regression parameter search</li>
-          <li><strong>Computer Vision Basics:</strong> Implemented IoU calculations, Non-maximum Suppression for bounding box filtering, image classification pipelines</li>
+          <li><strong>Optimization Techniques:</strong> SGD with Momentum, Advanced Optimizers (Adam, RMSprop); Genetic Algorithms for optimization problems</li>
+          <li><strong>Computer Vision & NLP:</strong> Object Localization, Multi-label Classification, Text Classification, POS Tagging; IoU calculations, Non-maximum Suppression</li>
+          <li><strong>Data Engineering:</strong> Data Augmentation strategies, complex classification and localization tasks, Mixture of Experts concepts</li>
         </ul>
       </td>
     </tr>
@@ -523,7 +525,8 @@ What drives me is solving complex problems through elegant engineering—from ar
           <li><strong>Algorithm Mastery:</strong> Implemented ML algorithms from scratch without high-level libraries (no scikit-learn black boxes), deepening understanding of mathematical foundations and optimization techniques</li>
           <li><strong>Mathematical Rigor:</strong> Mastered mathematical derivations: gradient descent, backpropagation, loss function optimization; applied linear algebra (matrix operations, vectorization) and calculus (partial derivatives, chain rule) throughout</li>
           <li><strong>Theory to Code:</strong> Translated mathematical formulas into efficient NumPy/PyTorch implementations, understanding computational complexity and vectorization benefits</li>
-          <li><strong>Deep Learning Fundamentals:</strong> Built neural networks layer-by-layer, understanding weight initialization, activation functions, batch normalization, and advanced architectures (Transformers, ViT)</li>
+          <li><strong>Deep Learning Fundamentals:</strong> Built neural networks layer-by-layer, understanding weight initialization, activation functions, batch normalization, and advanced architectures (Transformers, ConvNeXt, Swin, ViT)</li>
+          <li><strong>Model Compression & Deployment:</strong> Applied knowledge distillation, quantization, and ONNX-TensorRT optimization for production-ready models</li>
           <li><strong>Visualization & Analysis:</strong> Created data visualizations for exploratory analysis, model evaluation metrics, and algorithm behavior understanding</li>
         </ul>
       </td>
@@ -535,9 +538,11 @@ What drives me is solving complex problems through elegant engineering—from ar
           <li><strong>Core Python Libraries:</strong> NumPy (vectorized operations, broadcasting, linear algebra), Pandas (data analysis), Matplotlib/Seaborn (visualization)</li>
           <li><strong>PyTorch:</strong> Tensor operations, autograd, custom nn.Module implementations, training loops, optimization</li>
           <li><strong>ML Fundamentals:</strong> Supervised learning (classification, regression), unsupervised learning (K-Means clustering), model evaluation metrics</li>
-          <li><strong>Deep Learning:</strong> MLP, CNN, RNN/LSTM/GRU architectures, Batch Normalization, Skip Connections, Transformers, Vision Transformers (ViT)</li>
-          <li><strong>Mathematical Tools:</strong> Gradient computation, loss function derivation (L1, L2, Huber, cross-entropy), optimization algorithms (SGD, Adam, genetic algorithms)</li>
-          <li><strong>Computer Vision:</strong> IoU metrics, Non-maximum Suppression, basic image classification</li>
+          <li><strong>Deep Learning:</strong> MLP, CNN, RNN/LSTM/GRU, Transformers, Vision Transformers (ViT), ConvNeXt, Swin Transformer architectures</li>
+          <li><strong>Model Optimization:</strong> Knowledge Distillation, Quantization, ONNX-TensorRT, Transfer Learning, Proper Initialization</li>
+          <li><strong>Advanced Learning:</strong> Multi-label Classification, Object Localization, Text Classification, POS Tagging, Data Augmentation</li>
+          <li><strong>Mathematical Tools:</strong> Gradient computation, loss function derivation (L1, L2, Huber, cross-entropy), optimization algorithms (SGD with Momentum, Adam, genetic algorithms)</li>
+          <li><strong>Computer Vision:</strong> IoU metrics, Non-maximum Suppression, image classification and localization pipelines</li>
         </ul>
       </td>
     </tr>

@@ -1,13 +1,13 @@
 ---
 title: 'Certifications'
-lastUpdated: '2026-01-19'
+lastUpdated: '2026-03-04'
 ---
 
 # Certifications
 
 ## AIO 2025
 **Organization:** AI Vietnam  
-**Status:** 7 / 12 modules completed
+**Status:** 8 / 12 modules completed
 
 ---
 
@@ -85,5 +85,27 @@ lastUpdated: '2026-01-19'
 - LSTM and GRU for advanced sequence modeling
 
 **Certificate:** [Evaluation #94746100](../assets/certificates/aio2025_module7.png){ target=_blank }
+
+---
+
+### Module 8: Insight into Deep Learning
+- ConvNeXt architecture: modern hybrid CNN+Transformer design
+- Important layers and components in ConvNeXt models
+- Swin Transformer: hierarchical vision transformers
+- Model Compression techniques: Knowledge Distillation, Quantization, ONNX-TensorRT
+- Data Augmentation strategies for improved model robustness
+- SGD and advanced optimizers: Momentum, Adaptive methods
+- Model Initialization and Transfer Learning best practices
+- Multi-label classification for complex prediction tasks
+- Object Localization: from image classification to localization
+- Natural Language Processing: text classification and POS tagging
+- Mixture of Experts for efficient model scaling
+
+**Certificate:** [Evaluation #17504180](https://lms.aivietnam.edu.vn/verification/accomplishments/17504180){ target=_blank }
+
+---
+
+### ⏳ Module 9-12: Coming Soon
+Advanced topics in deep learning specialization and applications.
 
 ---
