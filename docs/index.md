@@ -1,6 +1,6 @@
 ---
 title: 'Trương Hiển Long - IT Student & AI Enthusiast'
-lastUpdated: '2026-01-19'
+lastUpdated: '2026-03-5'
 ---
 
 # Trương Hiển Long
@@ -124,7 +124,7 @@ What drives me is solving complex problems through elegant engineering—from ar
 
 ### Ho Chi Minh University of Science
 
-**Computer Science Student** | _Current_
+**IT Student** | _Current_
 
 <table>
   <thead>
@@ -137,7 +137,7 @@ What drives me is solving complex problems through elegant engineering—from ar
     <tr>
       <td><strong>Major</strong></td>
       <td>
-        <strong>Computer Science</strong> - Pursuing comprehensive education in computer science fundamentals, algorithm design, software engineering principles, and mathematical foundations. Currently enrolled in a specialized 1-year AI course focusing on machine learning, neural networks, and artificial intelligence applications.
+        <strong>Information Technology</strong> - Pursuing comprehensive education in computer science fundamentals, algorithm design, software engineering principles, and mathematical foundations. Currently enrolled in a specialized 1-year AI course focusing on machine learning, neural networks, and artificial intelligence applications.
       </td>
     </tr>
     <tr>
@@ -306,7 +306,7 @@ What drives me is solving complex problems through elegant engineering—from ar
 
 ### ICPR 2026 License Plate Recognition Competition
 
-**Computer Vision Researcher** | _Current_
+**Computer Vision Researcher** | _Finished_ | **🏆 Ranked 23rd**
 
 <table>
   <thead>
@@ -319,7 +319,7 @@ What drives me is solving complex problems through elegant engineering—from ar
     <tr>
       <td><strong>Competition</strong></td>
       <td>
-        <strong>Multi-Frame License Plate Recognition Challenge - Applied Deep Learning Research</strong> - Participated in ICPR 2026 competition by studying, analyzing, and extending a baseline OCR pipeline for license plate recognition from low-resolution video frames. Applied theoretical knowledge of CNNs, sequence modeling, and attention mechanisms to understand and improve the multi-frame CRNN architecture through systematic experimentation and iterative refinement.
+        <strong>Multi-Frame License Plate Recognition Challenge - Applied Deep Learning Research</strong> - Achieved <strong>23rd place</strong> in ICPR 2026 competition by studying, analyzing, and extending a baseline OCR pipeline for license plate recognition from low-resolution video frames. Applied theoretical knowledge of CNNs, sequence modeling, and attention mechanisms to understand and improve the multi-frame CRNN architecture through systematic experimentation and iterative refinement.
       </td>
     </tr>
     <tr>
@@ -338,6 +338,7 @@ What drives me is solving complex problems through elegant engineering—from ar
       <td><strong>Technical Achievements</strong></td>
       <td>
         <ul>
+          <li><strong>Competition Performance:</strong> Ranked <strong>23rd place</strong> out of numerous participants through systematic experimentation and architectural improvements</li>
           <li><strong>Research Mindset:</strong> Approached competition as learning opportunity—studied baseline architecture, understood design decisions, experimented with improvements through iterative refinement</li>
           <li><strong>Theoretical Application:</strong> Translated deep learning theory (spatial feature extraction with CNNs, temporal modeling with BiLSTM, attention mechanisms) into practical implementation and experimentation</li>
           <li><strong>Technical Deep Dive:</strong> Gained hands-on experience with multi-frame processing [B, 5, 3, 32, 128] → [B, 38, W], understanding batch operations, reshape mechanics, and sequence-to-sequence learning</li>
@@ -363,7 +364,7 @@ What drives me is solving complex problems through elegant engineering—from ar
 
 ### Smart Construction - IoT Activity Monitoring
 
-**MLOps Engineer & Data Scientist** | _2025_ | **Confidential Industry Project**
+**MLOps Engineer & Data Scientist** | _2025_ |
 
 <table>
   <thead>
@@ -561,7 +562,7 @@ What drives me is solving complex problems through elegant engineering—from ar
       <td><strong>Sophomore of Information Technology</strong></td>
       <td>University of Science - VNUHCM</td>
       <td>2024</td>
-      <td>GPA: 3.63/ 4.0</td>
+      <td>GPA: 3.53/ 4.0</td>
     </tr>
     <tr>
       <td><strong>IELTS</strong></td>
