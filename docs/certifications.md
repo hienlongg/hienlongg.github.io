@@ -1,13 +1,13 @@
 ---
 title: 'Certifications'
-lastUpdated: '2026-03-04'
+lastUpdated: '2026-03-16'
 ---
 
 # Certifications
 
 ## AIO 2025
 **Organization:** AI Vietnam  
-**Status:** 8 / 12 modules completed
+**Status:** 9 / 12 modules completed
 
 ---
 
@@ -105,7 +105,18 @@ lastUpdated: '2026-03-04'
 
 ---
 
-### ⏳ Module 9-12: Coming Soon
+### Module 9: Deep Learning Applications for Images
+- Built foundational understanding of UNet: introduction, study guide/reading, and domain conversion workflows
+- Explored practical computer vision applications: object tracking, medical image analysis, and hands-on exercise
+- Learned object detection pipeline through a 3-lesson series and YOLOv1 introduction
+- Studied data challenges in vision tasks, including imbalanced data handling
+- Strengthened end-to-end image deep learning knowledge from model concepts to applied scenarios
+
+**Certificate:** [Evaluation #43054103](https://lms.aivietnam.edu.vn/verification/accomplishments/43054103){ target=_blank }
+
+---
+
+### ⏳ Module 10-12: Coming Soon
 Advanced topics in deep learning specialization and applications.
 
 ---
