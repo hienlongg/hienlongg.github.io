@@ -1,9 +1,15 @@
 ---
 title: 'Certifications'
-lastUpdated: '2026-03-16'
+lastUpdated: '2026-05-02'
 ---
 
 # Certifications
+
+## AWS Cloud Practitioner
+**Organization:** Amazon Web Services (AWS)  
+**Credential:** [View Badge](https://www.credly.com/badges/76c631c5-3e4c-481d-83b7-ced9950d800b/public_url){ target=_blank }
+
+---
 
 ## AIO 2025
 **Organization:** AI Vietnam  
