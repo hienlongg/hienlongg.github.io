@@ -614,6 +614,46 @@ What drives me is solving complex problems through elegant engineering—from ar
 
 ---
 
+  ### Transformer Online Continual Learning (SOCL)
+
+  **Research Implementation** | _Self-directed_ 
+
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Project</strong></td>
+        <td>
+          Compact research code exploring online continual learning with a small Transformer that uses privileged in-context label information and reservoir experience replay on Split Fashion-MNIST. Reproducible ablation (naive / er / icl / full) with notebook and report figures.
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Key Achievements</strong></td>
+        <td>
+          <ul>
+            <li>Implemented `SOCLTransformer` with privileged attention (labels injected into keys/values) and a zero‑diagonal causal mask to avoid self‑peeking.</li>
+            <li>Built an online training loop and 2×2 ablation across ICL and replay modes, logging pre‑update online accuracy and task accuracy matrices (R).</li>
+            <li>Provided reproducible artifacts: Colab ablation notebook, generated heatmaps and accuracy curves, and run outputs (`online_accuracy.csv`, `accuracy_matrix.npy`).</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Reproducibility</strong></td>
+        <td>
+          Run the main experiment from the repository root (example):
+
+```bash
+python train.py --mode full --device auto
+```
+  </td>
+      </tr>
+      <tr>
+        <td><strong>Quick Tech</strong></td>
+        <td>Python, PyTorch, torchvision, NumPy, Matplotlib/Seaborn, Colab</td>
+      </tr>
+    </tbody>
+  </table>
+
+
 ## 🎓 Certificates & Education
 
 <table>
