@@ -7,11 +7,11 @@ lastUpdated: '2026-05-04'
 
 ## IT Student & AI Enthusiast
 
-I am a passionate IT student at Ho Chi Minh University of Science specializing in Artificial Intelligence and Machine Learning. With a strong mathematical foundation and hands-on experience in production-grade AI systems, I build end-to-end solutions spanning from neural network architectures to full-stack applications.
+I am an IT student at Ho Chi Minh University of Science specializing in Artificial Intelligence and Machine Learning. With a strong mathematical foundation, I ship production-scale AI systems spanning full-stack development, agentic AI orchestration, and advanced AI harness engineering.
 
-My expertise includes advanced AI techniques (RAG, LangGraph agents, multi-modal AI, attention mechanisms), production systems (FastAPI, Flask, MLOps pipelines), and modern full-stack development (React + TypeScript). I've deployed real-world applications handling LLM orchestration, vector databases, computer vision, and scalable backend architectures.
+My expertise includes agentic AI systems (multi-agent orchestration, agent-to-agent communication, semantic intent routing), AI harness engineering (controlling AI to generate code, multi-model orchestration, LLM-driven workflows), production backend systems (real-time streaming, WebSocket architecture, distributed systems), and full-stack development (React + TypeScript, Node.js). I've shipped production applications handling LLM agents, AI-powered code synthesis, multi-provider AI integration, vector search, and highly concurrent backends.
 
-What drives me is solving complex problems through elegant engineering—from architecting RAG systems with persistent memory to designing attention-based temporal fusion for video OCR. I combine deep theoretical understanding with practical implementation skills to deliver production-ready AI solutions. 
+What drives me is engineering elegant solutions at scale—designing agentic pipelines that orchestrate multiple AI models and harness LLMs for code generation, while architecting production systems with deep theoretical understanding and pragmatic implementation. 
 
 
 <!-- [Get PDF version](#){ .md-button .md-button--primary } -->
@@ -50,7 +50,11 @@ What drives me is solving complex problems through elegant engineering—from ar
   <tbody>
     <tr>
       <td><strong>Programming Languages</strong></td>
-      <td><strong>Python</strong>, <strong>C++</strong>
+      <td><strong>Python</strong>, <strong>C++</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong></td>
+    </tr>
+    <tr>
+      <td><strong>AI Harness Engineering</strong></td>
+      <td>Harnessing AI for Code Generation, Code Synthesis from Intent, AI-Driven Development, LLM-Controlled Programming, Multi-Model Code Orchestration, Semantic Intent to Code Translation, AI Agent Coordination</td>
     </tr>
     <tr>
       <td><strong>AI/ML Frameworks</strong></td>
@@ -59,6 +63,10 @@ What drives me is solving complex problems through elegant engineering—from ar
     <tr>
       <td><strong>LLMs & NLP</strong></td>
       <td>Google Gemini API, RAG (Retrieval-Augmented Generation), Prompt Engineering, Text Embeddings, Vietnamese NLP</td>
+    </tr>
+    <tr>
+      <td><strong>LLM Agents & Agentic Systems</strong></td>
+      <td>OpenAI Agents SDK, Agent-to-Agent Communication, Semantic Intent Routing, Tool Calling & Function Execution, Persistent Agent State Management, Agentic Workflows, Agent Orchestration, Autonomous Agents</td>
     </tr>
     <tr>
       <td><strong>Computer Vision</strong></td>
@@ -70,19 +78,31 @@ What drives me is solving complex problems through elegant engineering—from ar
     </tr>
     <tr>
       <td><strong>Backend & APIs</strong></td>
-      <td>FastAPI, Flask, REST API Design, Chainlit, WebSocket/Streaming, Session Management</td>
+      <td>Node.js, Express.js, FastAPI, Flask, REST API Design, 100+ Route Modularization, Chainlit, WebSocket/Streaming, Session Management, Rate Limiting, CSRF Protection</td>
+    </tr>
+    <tr>
+      <td><strong>Real-Time Architecture</strong></td>
+      <td>WebSocket (ws), Socket.IO, Real-Time Streaming, Live Analytics Push, Session Synchronization, Concurrent Connection Management</td>
     </tr>
     <tr>
       <td><strong>Frontend Development</strong></td>
       <td>React 19, TypeScript, Vite, Material-UI, Tailwind CSS, MapLibre GL, React Router</td>
     </tr>
     <tr>
+      <td><strong>Browser Automation & Web Scraping</strong></td>
+      <td>Playwright, Puppeteer, Autonomous Web Research, Content Extraction, Session Management, Structured Data Parsing</td>
+    </tr>
+    <tr>
       <td><strong>Databases</strong></td>
-      <td>MongoDB, PostgreSQL, Vector Databases, Database Design, Query Optimization</td>
+      <td>MongoDB, PostgreSQL, Redis, Supabase, Vector Databases (ChromaDB, FAISS), Database Design, Query Optimization, Job Queue Patterns, Caching Strategies</td>
     </tr>
     <tr>
       <td><strong>MLOps & DevOps</strong></td>
-      <td>ZenML, Docker, Git/GitHub, Pipeline Orchestration, Model Deployment, CI/CD</td>
+      <td>ZenML, Docker, Git/GitHub, Pipeline Orchestration, Model Deployment, CI/CD, Render Deployment, Environment Configuration Management</td>
+    </tr>
+    <tr>
+      <td><strong>Observability & Monitoring</strong></td>
+      <td>Grafana, Tempo Distributed Tracing, Structured Logging, Real-Time Metrics, Health Checks, Admin Alert Systems</td>
     </tr>
     <tr>
       <td><strong>Data Science</strong></td>
@@ -90,7 +110,7 @@ What drives me is solving complex problems through elegant engineering—from ar
     </tr>
     <tr>
       <td><strong>Development Practices</strong></td>
-      <td>RESTful API Design, Authentication/Authorization (bcrypt), CORS, Error Handling, Logging, Testing</td>
+      <td>RESTful API Design, Authentication/Authorization (bcrypt, TOTP, 2FA), CORS, Security Audit Compliance, CSRF Protection, XSS Prevention, Error Handling, Structured Logging, Testing</td>
     </tr>
     <tr>
       <td><strong>Mathematics</strong></td>
@@ -99,6 +119,10 @@ What drives me is solving complex problems through elegant engineering—from ar
     <tr>
        <td><strong>Full-Stack Development</strong></td>
        <td>Built complete AI systems from frontend (React + TypeScript) to backend (FastAPI/Flask) to database architecture (MongoDB + PostgreSQL), demonstrating end-to-end ownership</td>
+     </tr>
+     <tr>
+       <td><strong>Agentic Systems Engineering</strong></td>
+       <td>Designed and built production multi-module agentic platforms with agent-to-agent communication, semantic routing, real-time streaming, and orchestration of multiple AI providers — demonstrating end-to-end ownership from architecture to deployment</td>
      </tr>
     <tr>
       <td colspan="2"><i><strong>Soft Skills</strong></i></td>
@@ -677,6 +701,12 @@ python train.py --mode full --device auto
       <td>The British Council</td>
       <td>2024</td>
       <td>6.0 (L: 6, R: 7.5, W: 6.5, S: 4.5)</td>
+    </tr>
+    <tr>
+      <td><strong>AWS Cloud Practitioner</strong></td>
+      <td>Amazon Web Services</td>
+      <td>2026</td>
+      <td>Foundational cloud certification demonstrating understanding of AWS services, cloud concepts, and cloud value proposition</td>
     </tr>
   </tbody>
 </table>
