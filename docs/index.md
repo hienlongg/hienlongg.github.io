@@ -184,6 +184,69 @@ What drives me is solving complex problems through elegant engineering—from ar
 
 ---
 
+### Yetty - AI Content Creation Platform
+
+**Full-Stack Developer** | _March 2026 - Current_ | **Production-Ready Platform**
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>
+        <strong>Production-Scale AI Content Creation & Management Platform</strong> - Built and shipped a full-stack AI content platform from the ground up, covering the entire product lifecycle from architecture design to production deployment. The platform enables users to create, schedule, and publish AI-generated multi-modal content (text, image, video, music) across social channels — powered by agentic AI workflows, real-time streaming, and a modular multi-service backend.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Key Achievements</strong></td>
+      <td>
+        <ul>
+          <li><strong>Multi-Module Platform Architecture:</strong> Designed and built 5+ integrated product modules — an intelligent content scheduler, a media asset management system, an AI-powered multi-modal creation suite, an influencer discovery & analytics engine, and an autonomous browser research agent — all within a unified monorepo with dedicated backend routes and service layers</li>
+          <li><strong>AI Agent System:</strong> Implemented agentic pipelines using OpenAI Agents SDK, with agent-to-agent communication, semantic intent routing (replacing keyword-based triggers), and persistent conversation state management</li>
+          <li><strong>Real-Time Streaming Infrastructure:</strong> Built WebSocket bridge + Socket.IO layer for real-time LLM response streaming, voice WebSocket bridge (Twilio), and live analytics push — with shared session context between HTTP and WebSocket transports</li>
+          <li><strong>100+ RESTful API Endpoints:</strong> Engineered and maintained a production backend with 100+ modular route files covering authentication, AI inference, analytics, content management, media processing, scheduling, and admin control</li>
+          <li><strong>Multi-AI Orchestration:</strong> Integrated and unified multiple AI providers under a single content generation pipeline — handling text/code, music synthesis, image and video generation — with provider-agnostic routing and error fallback</li>
+          <li><strong>Influencer Discovery Engine:</strong> Built an analytics system for discovering and evaluating content creators using content pattern analysis, sentiment scoring, engagement metrics, and trend-based ranking</li>
+          <li><strong>Browser Automation Agent:</strong> Implemented Playwright + Puppeteer-powered autonomous agent for web research, content extraction, and structured data collection — with session tracking and output parsing</li>
+          <li><strong>Scheduled Content Publishing:</strong> Developed cross-platform post scheduling with MongoDB-backed job queues, CRON orchestration, retry logic, and multi-platform social API integration</li>
+          <li><strong>Video Rendering Pipeline:</strong> Integrated programmatic video composition, FFmpeg audio/video processing, and AI-generated music with cover art generation into a unified creation workflow</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technical Impact</strong></td>
+      <td>
+        <ul>
+          <li><strong>Scale:</strong> Production system handling concurrent users with distributed rate limiting (Redis + MongoDB hybrid), CSRF protection, Helmet security headers, and Redis-based session management</li>
+          <li><strong>Security:</strong> Full security audit compliance — bcrypt auth, CSRF tokens, DOMPurify XSS sanitization, HPP, express-mongo-sanitize, 2FA (TOTP + QR code)</li>
+          <li><strong>Observability:</strong> Grafana + Tempo distributed tracing, structured request logging, real-time metrics, and admin alert system</li>
+          <li><strong>Performance:</strong> Redis caching, optimized multi-database query patterns, media streaming with range-request support, and Vite code-split lazy loading</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies Used</strong></td>
+      <td>
+        <ul>
+          <li><strong>Frontend:</strong> React 18, TypeScript, Vite, Tailwind CSS v3, Material-UI, Three.js, Framer Motion, GSAP, Remotion (video rendering), Recharts, Chart.js, Lucide React</li>
+          <li><strong>Backend:</strong> Node.js, Express 5, 100+ modular REST routes, Socket.IO, WebSocket (ws), node-cron, Multer, Nodemailer, FFmpeg, PDFKit, Sharp</li>
+          <li><strong>AI/ML:</strong> OpenAI API + Agents SDK, Suno AI (music generation), Fal AI (image/video generation), AIML API, Ayrshare (social publishing), Playwright + Puppeteer (browser agent)</li>
+          <li><strong>Databases:</strong> MongoDB (Mongoose), PostgreSQL, Supabase, Redis (ioredis), ChromaDB (vector search)</li>
+          <li><strong>DevOps & Observability:</strong> Docker, Render, GitHub CI, Grafana, Tempo distributed tracing, structured logging</li>
+          <li><strong>Security:</strong> Helmet, csurf, bcrypt, express-rate-limit, rate-limit-redis, HPP, express-mongo-sanitize, DOMPurify, OTPLIB (2FA/TOTP)</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### Vietnamese AI Travel Assistant
 
 **Full-Stack AI Engineer** | _Oct 2025 - Dec 2025_ | **University Course Project**
