@@ -1,6 +1,6 @@
 ---
 title: 'Certifications'
-lastUpdated: '2026-05-02'
+lastUpdated: '2026-05-04'
 ---
 
 # Certifications
@@ -13,7 +13,7 @@ lastUpdated: '2026-05-02'
 
 ## AIO 2025
 **Organization:** AI Vietnam  
-**Status:** 9 / 12 modules completed
+**Status:** 11 / 12 modules completed
 
 ---
 
@@ -122,7 +122,30 @@ lastUpdated: '2026-05-02'
 
 ---
 
-### ⏳ Module 10-12: Coming Soon
+### Module 10: Deep Learning Applications for Text
+- Mastered Named Entity Recognition (NER): fundamentals and practical implementation for text understanding
+- Explored aspect-based NLP tasks: aspect extraction and content classification for fine-grained text analysis
+- Studied domain adaptation techniques for transferring models across different text domains
+- Learned machine translation fundamentals: introduction to translation architectures and practical workflows
+- Developed text generation capabilities and advanced translation systems
+- Explored advanced question answering systems for complex information retrieval
+- Attended seminar on Object Tracking applications in production environments
+
+**Certificate:** [Evaluation #(16053789)](https://lms.aivietnam.edu.vn/verification/accomplishments/16053789/){ target=_blank }
+
+---
+
+### Module 11: Advanced Generative Models & Deep Reinforcement Learning
+- Mastered fundamental generative model concepts: tokenization for language models (GPT approach), VAE framework, GAN architectures, and foundational understanding of diffusion model theory
+- Explored cutting-edge generative techniques: Diffusion Models (theory and advanced topics), practical LLM pretraining workflows, and deep reinforcement learning with Deep Deterministic Policy Gradient (DDPG)
+- Developed LLM specialization skills: fine-tuning strategies, advanced reasoning capabilities, alignment techniques (RLHF principles), and handling complex language model behaviors
+- Studied continual learning paradigm for maintaining model performance across multiple tasks without catastrophic forgetting
+
+**Certificate:** [Evaluation #59199975](https://lms.aivietnam.edu.vn/verification/accomplishments/59199975){ target=_blank }
+
+---
+
+### ⏳ Module 12: Coming Soon
 Advanced topics in deep learning specialization and applications.
 
 ---
