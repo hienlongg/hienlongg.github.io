@@ -49,8 +49,8 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
   </thead>
   <tbody>
     <tr>
-      <td><strong>Programming Languages</strong></td>
-      <td><strong>Python</strong>, <strong>C++</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong></td>
+      <td><strong>Languages</strong></td>
+      <td>Python, C++, JavaScript, TypeScript</td>
     </tr>
     <tr>
       <td><strong>AI Harness Engineering</strong></td>
@@ -62,83 +62,36 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
     </tr>
     <tr>
       <td><strong>LLMs & NLP</strong></td>
-      <td>Google Gemini API, RAG (Retrieval-Augmented Generation), Prompt Engineering, Text Embeddings, Vietnamese NLP</td>
-    </tr>
-    <tr>
-      <td><strong>LLM Agents & Agentic Systems</strong></td>
-      <td>OpenAI Agents SDK, Agent-to-Agent Communication, Semantic Intent Routing, Tool Calling & Function Execution, Persistent Agent State Management, Agentic Workflows, Agent Orchestration, Autonomous Agents</td>
+      <td>OpenAI Agents SDK, Google Gemini, RAG, Prompt Engineering, Agent-to-Agent Communication, Semantic Intent Routing</td>
     </tr>
     <tr>
       <td><strong>Computer Vision</strong></td>
-      <td>PyTorch, Torchvision, ResNet, CLIP, CRNN, Attention Mechanisms, CTC Loss, FAISS, Object Detection, OCR</td>
-    </tr>
-    <tr>
-      <td><strong>Vector Databases & Search</strong></td>
-      <td>ChromaDB, FAISS, Semantic Search, Similarity Metrics, Dense Retrieval</td>
+      <td>PyTorch, CLIP, ResNet, CRNN, Attention Mechanisms, CTC Loss, FAISS, Object Detection, OCR</td>
     </tr>
     <tr>
       <td><strong>Backend & APIs</strong></td>
-      <td>Node.js, Express.js, FastAPI, Flask, REST API Design, 100+ Route Modularization, Chainlit, WebSocket/Streaming, Session Management, Rate Limiting, CSRF Protection</td>
+      <td>Node.js, Express, FastAPI, Flask, REST APIs, WebSocket/Streaming, Authentication (bcrypt, TOTP, 2FA), Rate Limiting, CSRF Protection</td>
     </tr>
     <tr>
-      <td><strong>Real-Time Architecture</strong></td>
-      <td>WebSocket (ws), Socket.IO, Real-Time Streaming, Live Analytics Push, Session Synchronization, Concurrent Connection Management</td>
+      <td><strong>Frontend</strong></td>
+      <td>React 19, TypeScript, Vite, Tailwind CSS, Material-UI, MapLibre GL</td>
     </tr>
     <tr>
-      <td><strong>Frontend Development</strong></td>
-      <td>React 19, TypeScript, Vite, Material-UI, Tailwind CSS, MapLibre GL, React Router</td>
+      <td><strong>Databases & Vector Search</strong></td>
+      <td>MongoDB, PostgreSQL, Redis, ChromaDB, FAISS, Query Optimization, Caching</td>
     </tr>
     <tr>
-      <td><strong>Browser Automation & Web Scraping</strong></td>
-      <td>Playwright, Puppeteer, Autonomous Web Research, Content Extraction, Session Management, Structured Data Parsing</td>
+      <td><strong>DevOps & ML</strong></td>
+      <td>Docker, ZenML, Git/GitHub, CI/CD, Grafana, Tempo Tracing, Structured Logging</td>
     </tr>
     <tr>
-      <td><strong>Databases</strong></td>
-      <td>MongoDB, PostgreSQL, Redis, Supabase, Vector Databases (ChromaDB, FAISS), Database Design, Query Optimization, Job Queue Patterns, Caching Strategies</td>
+      <td><strong>Data & Math</strong></td>
+      <td>NumPy, Pandas, Linear Algebra, Calculus, Statistics, Signal Processing, Time-Series Analysis</td>
     </tr>
     <tr>
-      <td><strong>MLOps & DevOps</strong></td>
-      <td>ZenML, Docker, Git/GitHub, Pipeline Orchestration, Model Deployment, CI/CD, Render Deployment, Environment Configuration Management</td>
+      <td><strong>Browser Automation</strong></td>
+      <td>Playwright, Puppeteer, Web Research, Content Extraction, Session Management</td>
     </tr>
-    <tr>
-      <td><strong>Observability & Monitoring</strong></td>
-      <td>Grafana, Tempo Distributed Tracing, Structured Logging, Real-Time Metrics, Health Checks, Admin Alert Systems</td>
-    </tr>
-    <tr>
-      <td><strong>Data Science</strong></td>
-      <td>NumPy, Pandas, Matplotlib, Statistical Analysis, Time-Series Processing, Feature Engineering</td>
-    </tr>
-    <tr>
-      <td><strong>Development Practices</strong></td>
-      <td>RESTful API Design, Authentication/Authorization (bcrypt, TOTP, 2FA), CORS, Security Audit Compliance, CSRF Protection, XSS Prevention, Error Handling, Structured Logging, Testing</td>
-    </tr>
-    <tr>
-      <td><strong>Mathematics</strong></td>
-      <td>Linear Algebra, Calculus, Statistics, Probability Theory, Algorithm Analysis</td>
-    </tr>
-    <tr>
-       <td><strong>Full-Stack Development</strong></td>
-       <td>Built complete AI systems from frontend (React + TypeScript) to backend (FastAPI/Flask) to database architecture (MongoDB + PostgreSQL), demonstrating end-to-end ownership</td>
-     </tr>
-     <tr>
-       <td><strong>Agentic Systems Engineering</strong></td>
-       <td>Designed and built production multi-module agentic platforms with agent-to-agent communication, semantic routing, real-time streaming, and orchestration of multiple AI providers — demonstrating end-to-end ownership from architecture to deployment</td>
-     </tr>
-    <tr>
-      <td colspan="2"><i><strong>Soft Skills</strong></i></td>
-    </tr>
-     <tr>
-       <td><strong>Self-Learning</strong></td>
-       <td>Independently mastered advanced concepts: LangChain agents, RAG pipelines, multi-modal AI, attention mechanisms, and MLOps orchestration through hands-on implementation</td>
-     </tr>
-     <tr>
-       <td><strong>Problem Solving</strong></td>
-       <td>Architected complex solutions: multi-frame video OCR with attention fusion, robust signal processing with hysteresis, and scalable RAG systems with persistent memory</td>
-     </tr>
-     <tr>
-       <td><strong>Research & Competition</strong></td>
-       <td>Participated in ICPR 2026 License Plate Recognition competition, implementing state-of-the-art deep learning techniques and custom neural network architectures</td>
-     </tr>
   </tbody>
 </table>
 
@@ -148,63 +101,9 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 ### Ho Chi Minh University of Science
 
-**IT Student** | _Current_
-
-<table>
-  <thead>
-    <tr>
-      <th><strong>Aspect</strong></th>
-      <th><strong>Details</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Major</strong></td>
-      <td>
-        <strong>Information Technology</strong> - Pursuing comprehensive education in computer science fundamentals, algorithm design, software engineering principles, and mathematical foundations. Currently enrolled in a specialized 1-year AI course focusing on machine learning, neural networks, and artificial intelligence applications.
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Key Coursework</strong></td>
-      <td>
-        <ul>
-          <li>Object-Oriented Programming with C++</li>
-          <li>Data Structures and Algorithms</li>
-          <li>Software Engineering Principles</li>
-          <li>Mathematical Foundations (Linear Algebra, Calculus, Statistics)</li>
-          <li>Artificial Intelligence and Machine Learning (Current specialization)</li>
-          <li>Computer Graphics and Game Development</li>
-          <li>Database Systems and Management</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Academic Achievements</strong></td>
-      <td>
-        <ul>
-          <li>Strong mathematical foundation with good performance in calculus and linear algebra</li>
-          <li>Demonstrated proficiency in C++ programming and object-oriented design principles</li>
-          <li>Successfully completed complex team-based software development projects</li>
-          <li>Currently pursuing advanced AI coursework with focus on practical applications</li>
-          <li>Active participation in programming challenges and algorithmic problem-solving</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Relevant Skills</strong></td>
-      <td>
-        <ul>
-          <li>C++ Programming (Advanced level)</li>
-          <li>Mathematical Analysis and Problem Solving</li>
-          <li>AI and Machine Learning Concepts</li>
-          <li>Team Collaboration and Project Management</li>
-          <li>Research and Self-directed Learning</li>
-          <li>Technical Documentation and Presentation</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+**IT Student, Information Technology Major** | _Current_ | **GPA: 3.53/4.0**
+- Key Coursework: OOP (C++), Data Structures & Algorithms, Software Engineering, Linear Algebra, Calculus, Statistics, AI/ML, Database Systems
+- Strong mathematical foundation with advanced C++ and full-stack development experience
 
 ---
 
@@ -222,23 +121,16 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
   <tbody>
     <tr>
       <td><strong>Project</strong></td>
-      <td>
-        <strong>Production-Scale AI Content Creation & Management Platform</strong> - Built and shipped a full-stack AI content platform from the ground up, covering the entire product lifecycle from architecture design to production deployment. The platform enables users to create, schedule, and publish AI-generated multi-modal content (text, image, video, music) across social channels — powered by agentic AI workflows, real-time streaming, and a modular multi-service backend.
-      </td>
+      <td>AI-driven content creation and scheduling platform for multi-modal content (text, image, video, music) with virtual influencer management, MCP tool integration, and agentic AI workflows.</td>
     </tr>
     <tr>
       <td><strong>Key Achievements</strong></td>
       <td>
         <ul>
-          <li><strong>Multi-Module Platform Architecture:</strong> Designed and built 5+ integrated product modules — an intelligent content scheduler, a media asset management system, an AI-powered multi-modal creation suite, an influencer discovery & analytics engine, and an autonomous browser research agent — all within a unified monorepo with dedicated backend routes and service layers</li>
-          <li><strong>AI Agent System:</strong> Implemented agentic pipelines using OpenAI Agents SDK, with agent-to-agent communication, semantic intent routing (replacing keyword-based triggers), and persistent conversation state management</li>
-          <li><strong>Real-Time Streaming Infrastructure:</strong> Built WebSocket bridge + Socket.IO layer for real-time LLM response streaming, voice WebSocket bridge (Twilio), and live analytics push — with shared session context between HTTP and WebSocket transports</li>
-          <li><strong>100+ RESTful API Endpoints:</strong> Engineered and maintained a production backend with 100+ modular route files covering authentication, AI inference, analytics, content management, media processing, scheduling, and admin control</li>
-          <li><strong>Multi-AI Orchestration:</strong> Integrated and unified multiple AI providers under a single content generation pipeline — handling text/code, music synthesis, image and video generation — with provider-agnostic routing and error fallback</li>
-          <li><strong>Influencer Discovery Engine:</strong> Built an analytics system for discovering and evaluating content creators using content pattern analysis, sentiment scoring, engagement metrics, and trend-based ranking</li>
-          <li><strong>Browser Automation Agent:</strong> Implemented Playwright + Puppeteer-powered autonomous agent for web research, content extraction, and structured data collection — with session tracking and output parsing</li>
-          <li><strong>Scheduled Content Publishing:</strong> Developed cross-platform post scheduling with MongoDB-backed job queues, CRON orchestration, retry logic, and multi-platform social API integration</li>
-          <li><strong>Video Rendering Pipeline:</strong> Integrated programmatic video composition, FFmpeg audio/video processing, and AI-generated music with cover art generation into a unified creation workflow</li>
+          <li><strong>Multi-Module Platform:</strong> Built 5+ integrated modules (content scheduler, media management, AI creation suite, influencer discovery, browser agent) with 100+ modular API routes</li>
+          <li><strong>Agentic AI System:</strong> Implemented OpenAI Agents SDK with agent-to-agent communication, semantic intent routing, and persistent state; integrated Playwright/Puppeteer for autonomous web research</li>
+          <li><strong>Multi-AI Orchestration:</strong> Unified multiple AI providers (text, music, image/video generation) with provider-agnostic routing and error fallback</li>
+          <li><strong>Real-Time Infrastructure:</strong> Built WebSocket + Socket.IO layers for LLM streaming, live analytics, and scheduled content publishing with job queues and CRON orchestration</li>
         </ul>
       </td>
     </tr>
@@ -246,10 +138,9 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
       <td><strong>Technical Impact</strong></td>
       <td>
         <ul>
-          <li><strong>Scale:</strong> Production system handling concurrent users with distributed rate limiting (Redis + MongoDB hybrid), CSRF protection, Helmet security headers, and Redis-based session management</li>
-          <li><strong>Security:</strong> Full security audit compliance — bcrypt auth, CSRF tokens, DOMPurify XSS sanitization, HPP, express-mongo-sanitize, 2FA (TOTP + QR code)</li>
-          <li><strong>Observability:</strong> Grafana + Tempo distributed tracing, structured request logging, real-time metrics, and admin alert system</li>
-          <li><strong>Performance:</strong> Redis caching, optimized multi-database query patterns, media streaming with range-request support, and Vite code-split lazy loading</li>
+          <li><strong>Security & Scale:</strong> Full security audit compliance (bcrypt, 2FA/TOTP, CSRF, DOMPurify XSS, Helmet); distributed rate limiting (Redis + MongoDB); production-grade session management</li>
+          <li><strong>Observability:</strong> Grafana + Tempo distributed tracing, structured logging, real-time metrics, admin alerts</li>
+          <li><strong>Performance:</strong> Redis caching, optimized multi-DB queries, media streaming with range requests, Vite code-splitting</li>
         </ul>
       </td>
     </tr>
@@ -257,12 +148,11 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
       <td><strong>Technologies Used</strong></td>
       <td>
         <ul>
-          <li><strong>Frontend:</strong> React 18, TypeScript, Vite, Tailwind CSS v3, Material-UI, Three.js, Framer Motion, GSAP, Remotion (video rendering), Recharts, Chart.js, Lucide React</li>
-          <li><strong>Backend:</strong> Node.js, Express 5, 100+ modular REST routes, Socket.IO, WebSocket (ws), node-cron, Multer, Nodemailer, FFmpeg, PDFKit, Sharp</li>
-          <li><strong>AI/ML:</strong> OpenAI API + Agents SDK, Suno AI (music generation), Fal AI (image/video generation), AIML API, Ayrshare (social publishing), Playwright + Puppeteer (browser agent)</li>
-          <li><strong>Databases:</strong> MongoDB (Mongoose), PostgreSQL, Supabase, Redis (ioredis), ChromaDB (vector search)</li>
-          <li><strong>DevOps & Observability:</strong> Docker, Render, GitHub CI, Grafana, Tempo distributed tracing, structured logging</li>
-          <li><strong>Security:</strong> Helmet, csurf, bcrypt, express-rate-limit, rate-limit-redis, HPP, express-mongo-sanitize, DOMPurify, OTPLIB (2FA/TOTP)</li>
+          <li><strong>Frontend:</strong> React 18, TypeScript, Vite, Tailwind CSS, Material-UI, Three.js, Remotion</li>
+          <li><strong>Backend:</strong> Node.js, Express, Socket.IO, WebSocket, node-cron, FFmpeg, Sharp</li>
+          <li><strong>AI/ML:</strong> OpenAI Agents SDK, Suno (music), Fal AI (image/video), Playwright, Puppeteer</li>
+          <li><strong>Database & Cache:</strong> MongoDB, PostgreSQL, Redis, ChromaDB</li>
+          <li><strong>DevOps:</strong> Docker, Render, GitHub CI, Grafana, Tempo tracing</li>
         </ul>
       </td>
     </tr>
@@ -285,20 +175,15 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
   <tbody>
     <tr>
       <td><strong>Project</strong></td>
-      <td>
-        <strong>Advanced Multi-Modal Tourism AI System (Academic Project)</strong> - Built an intelligent conversational AI chatbot for Vietnamese tourism recommendations as a comprehensive university course project. System features RAG (Retrieval-Augmented Generation), LangGraph agentic workflows, CLIP-powered image search, and full-stack web platform with persistent conversation memory.
-      </td>
+      <td>Multi-modal tourism chatbot with RAG, LangGraph agentic workflows, CLIP image search, and full-stack Flask + React platform for Vietnamese travel recommendations.</td>
     </tr>
     <tr>
       <td><strong>Key Achievements</strong></td>
       <td>
         <ul>
-          <li><strong>Advanced AI Architecture:</strong> Designed and implemented LangGraph-based agentic system with tool calling (RAG retrieval + location extraction), streaming responses, and state management across multiple database backends</li>
-          <li><strong>Multi-Modal AI:</strong> Built CLIP-based image search engine using ResNet embeddings + FAISS for visual tourism location identification from uploaded photos (200K+ vector database)</li>
-          <li><strong>RAG System:</strong> Engineered semantic search pipeline with ChromaDB vector store, HuggingFace embeddings, and custom Vietnamese NLP processing for tourism data (5000+ locations)</li>
-          <li><strong>Full-Stack Development:</strong> Architected complete system: Flask REST API backend + React 19/TypeScript frontend + MongoDB (sessions/app data) + PostgreSQL (conversation memory)</li>
-          <li><strong>Production Features:</strong> Implemented bcrypt authentication, file upload system, social post creation/sharing, travel logs with location tracking, and real-time LLM response streaming</li>
-          <li><strong>Modern Frontend:</strong> Built responsive React 19 app with Material-UI, Tailwind CSS v4, MapLibre GL interactive maps, and markdown rendering for rich content display</li>
+          <li><strong>Multi-Modal AI:</strong> CLIP + ResNet image search with FAISS indexing (200K+ vectors) for visual tourism location identification from photos</li>
+          <li><strong>Agentic RAG:</strong> LangGraph agents with tool calling (RAG retrieval + location extraction); ChromaDB with HuggingFace embeddings; Google Gemini LLM; Vietnamese NLP processing (5000+ locations)</li>
+          <li><strong>Full-Stack:</strong> Flask REST backend + React frontend with MapLibre GL maps, bcrypt auth, real-time LLM streaming, MongoDB + PostgreSQL</li>
         </ul>
       </td>
     </tr>
@@ -306,24 +191,16 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
       <td><strong>Technical Impact</strong></td>
       <td>
         <ul>
-          <li><strong>Scale:</strong> Handles concurrent users with persistent conversation checkpointing, session management, and real-time streaming</li>
-          <li><strong>Performance:</strong> FAISS-accelerated image search with sub-second query times, ChromaDB vector similarity search optimized for Vietnamese tourism data</li>
-          <li><strong>Architecture:</strong> Modular design with clean separation: agents, RAG engine, vision module, database layer, API routes, and frontend components</li>
-          <li><strong>Integration:</strong> Seamlessly integrates Google Gemini LLM, custom embedding API, multiple databases, and external map services</li>
+          <li><strong>Performance:</strong> FAISS-accelerated image search with sub-second queries; optimized ChromaDB vector similarity search</li>
+          <li><strong>Architecture:</strong> Modular design with clean separation: agents, RAG engine, vision module, database layer</li>
+          <li><strong>Scalability:</strong> Persistent conversation checkpointing, concurrent user handling, real-time streaming</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Technologies Used</strong></td>
       <td>
-        <ul>
-          <li><strong>AI/ML:</strong> LangChain, LangGraph, Google Gemini, HuggingFace Transformers, Sentence-Transformers, CLIP, ResNet, FAISS</li>
-          <li><strong>Backend:</strong> Flask, REST API, WebSocket streaming, MongoDB, PostgreSQL, ChromaDB, bcrypt authentication</li>
-          <li><strong>Frontend:</strong> React 19, TypeScript, Vite, Material-UI, Tailwind CSS v4, MapLibre GL, Axios, React Router</li>
-          <li><strong>Computer Vision:</strong> PyTorch, Torchvision, ResNet18, FAISS indexing, image preprocessing pipelines</li>
-          <li><strong>Data Processing:</strong> Pandas, NumPy, Vietnamese text processing, location extraction, content validation</li>
-          <li><strong>DevOps:</strong> Docker, Git/GitHub, environment configuration, deployment on HuggingFace Spaces</li>
-        </ul>
+        LangChain, LangGraph, CLIP, ResNet, FAISS, ChromaDB, Flask, React 19, PyTorch, MongoDB, PostgreSQL, Google Gemini, HuggingFace, Docker
       </td>
     </tr>
   </tbody>
@@ -345,20 +222,16 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
   <tbody>
     <tr>
       <td><strong>Project</strong></td>
-      <td>
-        <strong>Psychology-Focused RAG System (Academic Project)</strong> - Developed a psychology chatbot as a university course project using Retrieval-Augmented Generation with DSM-5 documents and mental health resources. Built unified FastAPI + Chainlit application with MongoDB authentication, LangGraph agents for diagnostic assessment, and persistent conversation history with session management.
-      </td>
+      <td>Psychology-focused RAG system with DSM-5 knowledge base, diagnostic assessment agents, unified FastAPI + Chainlit interface, and MongoDB authentication.</td>
     </tr>
     <tr>
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Architected unified FastAPI + Chainlit application combining high-performance RESTful API with interactive chat interface</li>
-          <li>Designed LangGraph agent workflow with custom tool calling: DSM-5 knowledge retrieval, diagnosis update, and mental health assessment tracking</li>
-          <li>Implemented modular RAG pipeline: PDF document loaders, recursive text splitting, HuggingFace embeddings (all-MiniLM-L6-v2), and ChromaDB vector store</li>
-          <li>Built secure authentication system with MongoDB user management, session-based auth, bcrypt password hashing, and conversation history persistence</li>
-          <li>Developed document management API with FastAPI routes for health checks, document upload/indexing, and RAG query endpoints</li>
-          <li>Integrated Google Gemini (gemini-2.5-flash-lite) LLM for natural language understanding with context-aware psychology responses</li>
+          <li>Architected unified FastAPI + Chainlit application; designed LangGraph agents with custom tool calling for DSM-5 retrieval and diagnosis tracking</li>
+          <li>Implemented modular RAG pipeline: PDF loaders, recursive text splitting, HuggingFace embeddings, ChromaDB vector store</li>
+          <li>Built secure auth system with MongoDB user management, session-based auth, bcrypt, and conversation persistence</li>
+          <li>Integrated Google Gemini LLM for context-aware psychology responses</li>
         </ul>
       </td>
     </tr>
@@ -366,24 +239,16 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
       <td><strong>Key Achievements</strong></td>
       <td>
         <ul>
-          <li><strong>Advanced Agent System:</strong> Implemented LangGraph agents with state management, tool execution (retrieve_context, update_diagnosis), and structured diagnostic data tracking (score, content, assessment)</li>
-          <li><strong>Production Architecture:</strong> Built scalable system with CORS middleware, session management, centralized error handling, and environment-based configuration</li>
-          <li><strong>Vector Search:</strong> Engineered semantic search with ChromaDB persistence, top-k similarity retrieval, and source attribution for psychology knowledge base</li>
-          <li><strong>Full-Stack Integration:</strong> Created cohesive system with FastAPI backend, Chainlit UI (mounted at /rag), and MongoDB for user/conversation storage</li>
-          <li><strong>Comprehensive Testing:</strong> Developed test suite with unit tests, integration tests, and manual RAG verification scripts</li>
+          <li><strong>Agent System:</strong> LangGraph agents with state management, tool execution (retrieve_context, update_diagnosis), and structured diagnostic tracking</li>
+          <li><strong>Vector Search:</strong> ChromaDB with top-k similarity retrieval and source attribution for psychology knowledge base</li>
+          <li><strong>Production Architecture:</strong> Scalable system with CORS, session management, error handling, and comprehensive testing</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Technologies Used</strong></td>
       <td>
-        <ul>
-          <li><strong>AI Frameworks:</strong> LangChain, LangGraph, Google Gemini API, HuggingFace Embeddings, ChromaDB</li>
-          <li><strong>Backend:</strong> FastAPI, Chainlit, PyMongo, Starlette Middleware, SessionMiddleware, bcrypt</li>
-          <li><strong>Data Processing:</strong> LangChain document loaders, RecursiveCharacterTextSplitter, PDF processing</li>
-          <li><strong>Database:</strong> MongoDB (user auth, conversations), ChromaDB (vector store with SQLite persistence)</li>
-          <li><strong>Development:</strong> Python 3.9+, Pydantic models, logging, environment configuration, testing frameworks</li>
-        </ul>
+        LangChain, LangGraph, FastAPI, Chainlit, ChromaDB, MongoDB, Google Gemini, HuggingFace, bcrypt, Pydantic, PyMongo
       </td>
     </tr>
   </tbody>
@@ -405,19 +270,15 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
   <tbody>
     <tr>
       <td><strong>Competition</strong></td>
-      <td>
-        <strong>Multi-Frame License Plate Recognition Challenge - Applied Deep Learning Research</strong> - Achieved <strong>23rd place</strong> in ICPR 2026 competition by studying, analyzing, and extending a baseline OCR pipeline for license plate recognition from low-resolution video frames. Applied theoretical knowledge of CNNs, sequence modeling, and attention mechanisms to understand and improve the multi-frame CRNN architecture through systematic experimentation and iterative refinement.
-      </td>
+      <td>Multi-frame license plate OCR from low-resolution video frames using CNNs, attention mechanisms, and CTC decoding. Achieved 23rd place by analyzing and extending the baseline CRNN pipeline.</td>
     </tr>
     <tr>
       <td><strong>Research Contributions</strong></td>
       <td>
         <ul>
-          <li><strong>Baseline Analysis & Extension:</strong> Studied provided multi-frame CRNN + attention pipeline, analyzed architectural components, and experimented with modifications to improve recognition under degraded conditions</li>
-          <li><strong>Applied Architecture Understanding:</strong> Implemented and customized neural architecture: 7-layer CNN backbone (3→64→128→256→512 channels) + AttentionFusion module + 2-layer BiLSTM (hidden size 256) + CTC decoder for 38 character classes</li>
-          <li><strong>Attention Mechanism Exploration:</strong> Studied learnable attention-based temporal fusion (512→64→1 channels) that computes weighted combination across 5 frames, understanding how it adaptively focuses on clearer frames</li>
-          <li><strong>Training Pipeline Development:</strong> Experimented with data augmentation strategies (synthetic degradation: blur, noise, compression on high-resolution images), training techniques, and hyperparameter configurations</li>
-          <li><strong>Theory to Practice:</strong> Applied knowledge of CTC (Connectionist Temporal Classification) loss for variable-length sequences, BatchNorm for training stability, and dropout (0.25) for regularization</li>
+          <li>Analyzed and extended multi-frame CRNN + attention baseline; experimented with modifications to improve recognition under degraded conditions</li>
+          <li>Customized architecture: 7-layer CNN (3→64→128→256→512 channels) + AttentionFusion (temporal fusion across 5 frames) + 2-layer BiLSTM + CTC decoder (38 characters)</li>
+          <li>Experimented with data augmentation (blur, noise, compression), training strategies, hyperparameter tuning, and CTC loss optimization</li>
         </ul>
       </td>
     </tr>
@@ -425,23 +286,16 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
       <td><strong>Technical Achievements</strong></td>
       <td>
         <ul>
-          <li><strong>Competition Performance:</strong> Ranked <strong>23rd place</strong> out of numerous participants through systematic experimentation and architectural improvements</li>
-          <li><strong>Research Mindset:</strong> Approached competition as learning opportunity—studied baseline architecture, understood design decisions, experimented with improvements through iterative refinement</li>
-          <li><strong>Theoretical Application:</strong> Translated deep learning theory (spatial feature extraction with CNNs, temporal modeling with BiLSTM, attention mechanisms) into practical implementation and experimentation</li>
-          <li><strong>Technical Deep Dive:</strong> Gained hands-on experience with multi-frame processing [B, 5, 3, 32, 128] → [B, 38, W], understanding batch operations, reshape mechanics, and sequence-to-sequence learning</li>
-          <li><strong>Optimization Techniques:</strong> Experimented with training strategies: BatchNorm placement, dropout rates, asymmetric MaxPool kernels, log-softmax for numerical stability</li>
+          <li>Systematic architecture improvements and hyperparameter optimization yielded 23rd place ranking</li>
+          <li>Applied deep learning theory (CNN feature extraction, temporal modeling with BiLSTM, attention mechanisms) to practical implementation</li>
+          <li>Gained hands-on experience with multi-frame processing, batch operations, and sequence-to-sequence learning</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Technologies Used</strong></td>
       <td>
-        <ul>
-          <li><strong>Deep Learning:</strong> PyTorch, custom nn.Module architectures, CTC loss, BiLSTM, attention mechanisms</li>
-          <li><strong>Computer Vision:</strong> CNN architectures, batch normalization, data augmentation, image degradation synthesis</li>
-          <li><strong>Model Training:</strong> Optimizer configuration, learning rate scheduling, checkpointing, evaluation metrics</li>
-          <li><strong>Data Engineering:</strong> Custom PyTorch Dataset, JSON annotation parsing, multi-frame sampling, transform pipelines</li>
-        </ul>
+        PyTorch, Custom nn.Module architectures, CTC loss, BiLSTM, Attention mechanisms, CNN architectures, Data augmentation, Custom PyTorch Dataset
       </td>
     </tr>
   </tbody>
@@ -451,7 +305,7 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 ### Smart Construction - IoT Activity Monitoring
 
-**MLOps Engineer & Data Scientist** | _2025_ |
+**MLOps Engineer & Data Scientist** | _2025_
 
 <table>
   <thead>
@@ -463,19 +317,16 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
   <tbody>
     <tr>
       <td><strong>Project</strong></td>
-      <td>
-        <strong>Real-World ML Pipeline for IoT Sensor Analytics (Confidential)</strong> - Engineered production-like machine learning pipeline for real-time Active/Idle classification from confidential construction site IoT sensor data (accelerometer + gyroscope). Gained hands-on experience with the complete ML lifecycle under real-world constraints, from data ingestion through model deployment with ZenML orchestration.
-      </td>
+      <td>Real-time Active/Idle classification from construction site IoT sensor data (accelerometer + gyroscope) using ZenML orchestration and robust signal processing.</td>
     </tr>
     <tr>
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Designed and implemented end-to-end ZenML pipeline with 7 modular steps: data ingestion → normalization → denoising → resampling → feature windowing → rule classification → persistence</li>
-          <li>Developed robust rule-based classifier using z-score normalization with median absolute deviation (MAD), hysteresis thresholding, and temporal debouncing (10-second window)</li>
-          <li>Engineered time-series processing utilities: norm calculation, resampling (downsampling to 1Hz), sliding window feature extraction, and signal denoising for industry-scale sensor data</li>
-          <li>Built statistical model training: percentile-based threshold fitting (75th/60th percentiles), weighted activity scoring (70% accelerometer, 30% gyroscope) on confidential dataset</li>
-          <li>Implemented model persistence and configuration management with YAML-based pipeline configuration and JSON model serialization</li>
+          <li>Designed and implemented 7-step ZenML pipeline: data ingestion → normalization → denoising → resampling → feature windowing → classification → persistence</li>
+          <li>Developed robust rule-based classifier using z-score normalization with MAD, hysteresis thresholding, and temporal debouncing (10s window)</li>
+          <li>Engineered time-series utilities: norm calculation, resampling (1Hz), sliding window extraction, signal denoising; built statistical model training with percentile-based thresholds</li>
+          <li>Implemented YAML-based configuration management and JSON model serialization</li>
         </ul>
       </td>
     </tr>
@@ -483,22 +334,16 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
       <td><strong>Key Achievements</strong></td>
       <td>
         <ul>
-          <li><strong>Real-World ML Lifecycle:</strong> Experienced complete ML project lifecycle under industry constraints: data exploration, feature engineering, model iteration, evaluation, deployment considerations</li>
-          <li><strong>Robust Algorithm Design:</strong> Developed activity classifier resilient to sensor noise through median-based statistics (resistant to outliers) and hysteresis state machine for stable predictions</li>
-          <li><strong>MLOps Best Practices:</strong> Structured project with ZenML orchestration, modular step architecture, interface abstractions, configuration-driven execution, and comprehensive testing</li>
-          <li><strong>Signal Processing:</strong> Implemented temporal debouncing mechanism to prevent false state transitions, ensuring stable activity detection over time on noisy real-world data</li>
+          <li>Complete ML lifecycle under real-world constraints: data exploration, feature engineering, model iteration, evaluation</li>
+          <li>Robust classifier resilient to sensor noise through median-based statistics and hysteresis state machine</li>
+          <li>Modular ZenML architecture with configuration-driven execution and comprehensive testing</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Technologies Used</strong></td>
       <td>
-        <ul>
-          <li><strong>MLOps:</strong> ZenML pipeline orchestration, step-based architecture, configuration management (YAML)</li>
-          <li><strong>Data Science:</strong> Pandas, NumPy, time-series processing, statistical methods (median, MAD, percentiles)</li>
-          <li><strong>Signal Processing:</strong> Norm calculation, resampling, denoising, hysteresis filtering, debouncing</li>
-          <li><strong>Software Engineering:</strong> Dataclasses, interface design, modular architecture, unit testing, documentation</li>
-        </ul>
+        ZenML, Pandas, NumPy, Time-series processing, Signal processing (denoising, resampling, debouncing), MAD normalization, Dataclasses
       </td>
     </tr>
   </tbody>
@@ -506,7 +351,7 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 ---
 
-### Tower Defense Game Project - Team 7
+### Tower Defense Game - Team 7
 
 **Software Developer** | _June 2025 - August 2025_
 
@@ -520,22 +365,15 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
   <tbody>
     <tr>
       <td><strong>Project</strong></td>
-      <td>
-        <strong>Tower Defense Game Project</strong> - A comprehensive Tower Defense game developed using C++ with Object-Oriented Programming principles as part of academic coursework. The project demonstrates advanced C++ programming skills, game development concepts, and collaborative software development in a team environment.
-      </td>
+      <td>Tower Defense game in C++ with OOP principles, CMake build system, and collaborative team development.</td>
     </tr>
     <tr>
       <td><strong>Responsibilities</strong></td>
       <td>
         <ul>
-          <li>Collaborated with Team 7 (Nhom7) to design and implement game mechanics and core gameplay features</li>
-          <li>Applied Object-Oriented Programming principles to create modular and maintainable code architecture</li>
-          <li>Implemented game logic including tower placement, enemy pathfinding, and combat systems</li>
-          <li>Configured and maintained project build system using CMake for cross-platform compatibility</li>
-          <li>Managed version control through Git and GitHub, handling code reviews and collaborative development</li>
-          <li>Participated in team meetings to discuss project requirements and development milestones</li>
-          <li>Debugged and optimized code performance to ensure smooth gameplay experience</li>
-          <li>Documented code and project architecture for team understanding and maintenance</li>
+          <li>Designed and implemented game mechanics (tower placement, enemy pathfinding, combat systems)</li>
+          <li>Applied OOP principles for modular, maintainable code architecture; configured CMake build system for cross-platform compatibility</li>
+          <li>Managed Git/GitHub workflows with code reviews and collaborative development; debugged and optimized performance</li>
         </ul>
       </td>
     </tr>
@@ -543,27 +381,16 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
       <td><strong>Key Achievements</strong></td>
       <td>
         <ul>
-          <li><strong>Technical Excellence:</strong> Successfully completed a complex game development project with 96.8% C++ codebase (117KB+)</li>
-          <li><strong>Team Collaboration:</strong> Demonstrated effective teamwork and communication skills in a group development environment</li>
-          <li><strong>OOP Mastery:</strong> Applied advanced Object-Oriented Programming concepts in a real-world gaming application</li>
-          <li><strong>Version Control Proficiency:</strong> Gained experience with Git workflows, branching, and collaborative development practices</li>
-          <li><strong>Build System Management:</strong> Successfully configured CMake build system for project compilation and deployment</li>
-          <li><strong>Problem Solving:</strong> Applied mathematical reasoning and algorithmic thinking to solve complex game development challenges</li>
-          <li><strong>Project Delivery:</strong> Delivered a fully functional game project meeting all academic requirements and specifications</li>
+          <li>Successfully delivered complex game with 96.8% C++ codebase (117KB+)</li>
+          <li>Advanced OOP and design patterns; Git workflow proficiency and team collaboration</li>
+          <li>Game loops, entity management, collision detection, and cross-platform compatibility</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Technologies Used</strong></td>
       <td>
-        <ul>
-          <li><strong>C++</strong> (96.8% of codebase) - Advanced object-oriented programming</li>
-          <li><strong>CMake</strong> (3.2% of codebase) - Build system configuration and project management</li>
-          <li><strong>Git & GitHub</strong> - Version control and collaborative development</li>
-          <li><strong>Object-Oriented Design Patterns</strong> - Clean architecture and modular programming</li>
-          <li><strong>Game Development Concepts</strong> - Game loops, entity management, collision detection</li>
-          <li><strong>Cross-platform Development</strong> - Ensuring compatibility across different systems</li>
-        </ul>
+        C++ (advanced OOP), CMake, Git/GitHub, OOP design patterns, Game loops, Entity management
       </td>
     </tr>
   </tbody>
@@ -571,9 +398,9 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 ---
 
-### AIO-2025 AI/ML Learning Journey
+### Transformer Online Continual Learning
 
-**AI/ML Student & Practitioner** | _2025 - Current_ | **11 / 12 Modules Completed**
+**Research Implementation** | _Self-directed_
 
 <table>
   <thead>
@@ -584,53 +411,23 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
   </thead>
   <tbody>
     <tr>
-      <td><strong>Learning Program</strong></td>
-      <td>
-        <strong>Comprehensive AI/ML Curriculum</strong> - Intensive theory-focused learning journey covering fundamental to advanced machine learning concepts through mathematical derivation and from-scratch algorithm implementation. Emphasis on understanding underlying principles, mathematical intuition, and building algorithms without relying on high-level libraries.
-      </td>
+      <td><strong>Project</strong></td>
+      <td>Online continual learning with Transformer using privileged in-context labels and reservoir experience replay on Split Fashion-MNIST; reproducible ablation study.</td>
     </tr>
     <tr>
-      <td><strong>Key Projects & Implementations</strong></td>
+      <td><strong>Key Achievements</strong></td>
       <td>
         <ul>
-          <li><strong>Classical ML Algorithms:</strong> Implemented K-Means Clustering, K-Nearest Neighbors (KNN), Decision Trees (classification & regression), Linear Regression (L1, L2, Huber losses with vectorization), Logistic Regression, Softmax Regression from scratch</li>
-          <li><strong>Neural Networks:</strong> Built Multilayer Perceptron for images/text/tabular data, CNN architectures, RNN/LSTM/GRU for sequences, implemented Batch Normalization, Skip Connections, and explored generative models (VAE, GAN, Diffusion)</li>
-          <li><strong>Advanced Architectures:</strong> Studied Transformers, Vision Transformers (ViT), ConvNeXt (hybrid CNN+Transformer), Swin Transformer, U-Net, YOLOv1, VAE, GAN, and Diffusion Models; explored modern deep learning design patterns</li>
-          <li><strong>Model Optimization:</strong> Knowledge Distillation and Quantization for model compression; ONNX-TensorRT for deployment optimization; Transfer Learning and proper Model Initialization strategies</li>
-          <li><strong>Mathematical Foundations:</strong> Derived gradient descent, backpropagation, loss functions (MSE, cross-entropy) from first principles; mastered vectorization techniques with NumPy</li>
-          <li><strong>PyTorch Fundamentals:</strong> Implemented regression and classification models using PyTorch framework, understanding autograd and tensor operations</li>
-          <li><strong>Optimization Techniques:</strong> SGD with Momentum, Advanced Optimizers (Adam, RMSprop); Genetic Algorithms, Deep Deterministic Policy Gradient (DDPG) for reinforcement learning</li>
-          <li><strong>Computer Vision & NLP:</strong> Object Localization, Multi-label Classification, Text Classification, POS Tagging, Named Entity Recognition (NER), Aspect Extraction, Domain Adaptation; U-Net-based domain conversion, medical image analysis, object detection/tracking series, machine translation, text generation, advanced question answering, IoU calculations, Non-maximum Suppression</li>
-          <li><strong>Data Engineering:</strong> Data Augmentation strategies, complex classification and localization tasks, Mixture of Experts concepts</li>
+          <li>Implemented SOCLTransformer with privileged attention (labels in keys/values) and zero-diagonal causal masking to prevent self-peeking</li>
+          <li>Built online training loop and 2×2 ablation (ICL and replay modes) with pre-update accuracy and task accuracy matrices</li>
+          <li>Provided reproducible artifacts: Colab notebook, heatmaps, accuracy curves, run outputs (online_accuracy.csv, accuracy_matrix.npy)</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td><strong>Technical Achievements</strong></td>
+      <td><strong>Technologies Used</strong></td>
       <td>
-        <ul>
-          <li><strong>Algorithm Mastery:</strong> Implemented ML algorithms from scratch without high-level libraries (no scikit-learn black boxes), deepening understanding of mathematical foundations and optimization techniques</li>
-          <li><strong>Mathematical Rigor:</strong> Mastered mathematical derivations: gradient descent, backpropagation, loss function optimization; applied linear algebra (matrix operations, vectorization) and calculus (partial derivatives, chain rule) throughout</li>
-          <li><strong>Theory to Code:</strong> Translated mathematical formulas into efficient NumPy/PyTorch implementations, understanding computational complexity and vectorization benefits</li>
-          <li><strong>Deep Learning Fundamentals:</strong> Built neural networks layer-by-layer, understanding weight initialization, activation functions, batch normalization, and advanced architectures (Transformers, ConvNeXt, Swin, ViT, U-Net, YOLOv1, VAE, GAN, Diffusion); explored LLM pretraining, fine-tuning, reasoning, and alignment</li>
-          <li><strong>Model Compression & Deployment:</strong> Applied knowledge distillation, quantization, and ONNX-TensorRT optimization for production-ready models</li>
-          <li><strong>Visualization & Analysis:</strong> Created data visualizations for exploratory analysis, model evaluation metrics, and algorithm behavior understanding</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Technologies & Tools</strong></td>
-      <td>
-        <ul>
-          <li><strong>Core Python Libraries:</strong> NumPy (vectorized operations, broadcasting, linear algebra), Pandas (data analysis), Matplotlib/Seaborn (visualization)</li>
-          <li><strong>PyTorch:</strong> Tensor operations, autograd, custom nn.Module implementations, training loops, optimization</li>
-          <li><strong>ML Fundamentals:</strong> Supervised learning (classification, regression), unsupervised learning (K-Means clustering), model evaluation metrics</li>
-          <li><strong>Deep Learning:</strong> MLP, CNN, RNN/LSTM/GRU, Transformers, Vision Transformers (ViT), ConvNeXt, Swin Transformer, U-Net, YOLOv1, VAE, GAN, Diffusion Models architectures</li>
-          <li><strong>Model Optimization:</strong> Knowledge Distillation, Quantization, ONNX-TensorRT, Transfer Learning, Proper Initialization</li>
-          <li><strong>Advanced Learning:</strong> Multi-label Classification, Object Localization, Text Classification, POS Tagging, Data Augmentation</li>
-          <li><strong>Mathematical Tools:</strong> Gradient computation, loss function derivation (L1, L2, Huber, cross-entropy), optimization algorithms (SGD with Momentum, Adam, genetic algorithms, DDPG), tokenization for LLMs</li>
-          <li><strong>Computer Vision:</strong> IoU metrics, Non-maximum Suppression, image classification and localization pipelines</li>
-        </ul>
+        Python, PyTorch, torchvision, NumPy, Matplotlib, Seaborn, Colab
       </td>
     </tr>
   </tbody>
@@ -638,44 +435,12 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 ---
 
-  ### Transformer Online Continual Learning (SOCL)
+### AIO-2025 AI/ML Learning Journey
 
-  **Research Implementation** | _Self-directed_ 
+**AI/ML Student & Practitioner** | _2025 - Current_ | **11/12 Modules Completed**
 
-  <table>
-    <tbody>
-      <tr>
-        <td><strong>Project</strong></td>
-        <td>
-          Compact research code exploring online continual learning with a small Transformer that uses privileged in-context label information and reservoir experience replay on Split Fashion-MNIST. Reproducible ablation (naive / er / icl / full) with notebook and report figures.
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Key Achievements</strong></td>
-        <td>
-          <ul>
-            <li>Implemented `SOCLTransformer` with privileged attention (labels injected into keys/values) and a zero‑diagonal causal mask to avoid self‑peeking.</li>
-            <li>Built an online training loop and 2×2 ablation across ICL and replay modes, logging pre‑update online accuracy and task accuracy matrices (R).</li>
-            <li>Provided reproducible artifacts: Colab ablation notebook, generated heatmaps and accuracy curves, and run outputs (`online_accuracy.csv`, `accuracy_matrix.npy`).</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Reproducibility</strong></td>
-        <td>
-          Run the main experiment from the repository root (example):
+Intensive theory-focused curriculum: fundamental to advanced ML concepts through mathematical derivation and from-scratch algorithm implementation without high-level libraries.
 
-```bash
-python train.py --mode full --device auto
-```
-  </td>
-      </tr>
-      <tr>
-        <td><strong>Quick Tech</strong></td>
-        <td>Python, PyTorch, torchvision, NumPy, Matplotlib/Seaborn, Colab</td>
-      </tr>
-    </tbody>
-  </table>
 
 
 ## 🎓 Certificates & Education
