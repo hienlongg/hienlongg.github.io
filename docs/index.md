@@ -102,6 +102,7 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 ### Ho Chi Minh University of Science
 
 **IT Student, Information Technology Major** | _Current_ | **GPA: 3.53/4.0**
+
 - Key Coursework: OOP (C++), Data Structures & Algorithms, Software Engineering, Linear Algebra, Calculus, Statistics, AI/ML, Database Systems
 - Strong mathematical foundation with advanced C++ and full-stack development experience
 
