@@ -162,6 +162,55 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 ---
 
+### HousingSGN Cloud Hosting & WordPress Migration
+
+  **Cloud & WordPress Migration Consultant** | _May 2026 - Current_ | **Customer Project**
+
+  <table>
+    <thead>
+      <tr>
+        <th><strong>Aspect</strong></th>
+        <th><strong>Details</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Project</strong></td>
+        <td>Cloud migration planning and performance audit for a WordPress real estate portal, housingsgn.com.</td>
+      </tr>
+      <tr>
+        <td><strong>Responsibilities</strong></td>
+        <td>
+          <ul>
+            <li>Gather customer requirements, analyze current hosting limitations, and identify technical constraints affecting reliability and maintainability</li>
+            <li>Compared Cloudways, Kinsta, WP Engine, VPS, cPanel, AWS, and GCP based on cost, setup complexity, scalability, support, and operational effort</li>
+            <li>Planned deployment architecture for two WordPress applications: main site and Japanese subdomain</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Migration Planning</strong></td>
+        <td>
+          <ul>
+            <li>Prepared migration steps for WordPress files, MariaDB database import, DNS configuration, SSL setup, and production environment configuration</li>
+            <li>Identified migration risks including large database import, hardcoded local URLs, premium plugin license reactivation, SSL configuration, and theme update safety</li>
+            <li>Investigated slow listing pages and identified N+1 <code>get_post_meta()</code> calls across property cards and map pins</li>
+            <li>Found expensive <code>wp_postmeta</code> sorting by <code>prop_featured</code>, duplicated <code>WP_Query</code> execution, and no persistent Redis/Memcached object cache</
+            li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Technologies Used</strong></td>
+        <td>
+          WordPress, PHP 8.4, MariaDB 10.11, Docker Compose, Cloudways, DigitalOcean, DNS, SSL, WP-CLI.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+---
+
 ### Vietnamese AI Travel Assistant
 
 **Full-Stack AI Engineer** | _Oct 2025 - Dec 2025_ | **University Course Project**
