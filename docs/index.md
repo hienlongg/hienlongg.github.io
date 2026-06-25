@@ -1,6 +1,6 @@
 ---
 title: 'Trương Hiển Long - IT Student & AI Enthusiast'
-lastUpdated: '2026-05-04'
+lastUpdated: '2026-06-25'
 ---
 
 # Trương Hiển Long
@@ -105,6 +105,52 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 - Key Coursework: OOP (C++), Data Structures & Algorithms, Software Engineering, Linear Algebra, Calculus, Statistics, AI/ML, Database Systems
 - Strong mathematical foundation with advanced C++ and full-stack development experience
+
+---
+
+### TorchViz-3D
+
+**AI/ML Visualization Engineer** | _June 2026 - Current_ | **[GitHub Repository](https://github.com/duongtruongbinh/TorchViz-3D){ target=_blank }**
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Aspect</strong></th>
+      <th><strong>Details</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Project</strong></td>
+      <td>Browser-based educational platform that converts PyTorch-style <code>nn.Module</code> code into interactive 3D neural-network architecture diagrams without a backend or full PyTorch runtime.</td>
+    </tr>
+    <tr>
+      <td><strong>Key Achievements</strong></td>
+      <td>
+        <ul>
+          <li><strong>In-Browser Model Tracing:</strong> Used Pyodide and a custom shape-only <code>torchstub</code> runtime to execute model definitions safely and derive layer shapes, parameter counts, hierarchy, and graph edges</li>
+          <li><strong>Interactive 3D Visualization:</strong> Rendered nested modules, tensor dimensions, skip connections, concatenation paths, and animated operation effects with React Three Fiber and Three.js</li>
+          <li><strong>Developer Tooling:</strong> Integrated a Monaco code editor, inline shape-error highlighting, synchronized layer inspection, architecture templates, and SVG/PNG export</li>
+          <li><strong>Learning Experience:</strong> Built guided learning paths, review modes, model-flow demonstrations, and shape/value exercises for understanding neural-network operations</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Architecture & Quality</strong></td>
+      <td>
+        <ul>
+          <li>Designed a Web Worker pipeline from source code to an intermediate graph representation, deterministic layout engine, and interactive 3D scene</li>
+          <li>Implemented reusable support for architectures including LeNet-5, ResNet, Vision Transformer, AlexNet, VGG-16, MobileNetV2, and UNet</li>
+          <li>Maintained automated tests for shape inference, graph edges, layout bounds, localization, exercises, and forward-pass behavior</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Technologies Used</strong></td>
+      <td>React 18, TypeScript, Vite, Three.js, React Three Fiber, Pyodide, WebAssembly, Web Workers, Monaco Editor, Zustand, SVG</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
