@@ -23,7 +23,7 @@ lastUpdated: '2026-06-25'
 - Basic Neural Network concepts: activation functions
 - Object-Oriented Programming with Python (custom PyTorch classes)
 
-**Certificate:** [Evaluation #11241733](https://hienlongg.github.io/assets/certificates/aio2025_module1.png){ target=_blank }
+**Certificate:** [Evaluation #11241733](https://lms.aivietnam.edu.vn/verification/accomplishments/11241733){ target=_blank }
 
 ---
 
@@ -34,7 +34,7 @@ lastUpdated: '2026-06-25'
 - Similarity metrics: cosine similarity for data comparison
 - Naive Bayes classifier implementation and classification
 
-**Certificate:** [Evaluation #71314485](https://hienlongg.github.io/assets/certificates/aio2025_module2.png){ target=_blank }
+**Certificate:** [Evaluation #71314485](https://lms.aivietnam.edu.vn/verification/accomplishments/71314485){ target=_blank }
 
 ---
 
@@ -45,7 +45,7 @@ lastUpdated: '2026-06-25'
 - Decision Trees: both classification and regression problems
 - Practical implementation of tree-based models
 
-**Certificate:** [Evaluation #37233472](https://hienlongg.github.io/assets/certificates/aio2025_module3.png){ target=_blank }
+**Certificate:** [Evaluation #37233472](https://lms.aivietnam.edu.vn/verification/accomplishments/37233472){ target=_blank }
 
 ---
 
@@ -56,7 +56,7 @@ lastUpdated: '2026-06-25'
 - LightGBM and CatBoost for advanced tree-based models
 - Comparison and selection of ensemble methods
 
-**Certificate:** [Evaluation #43234617](https://hienlongg.github.io/assets/certificates/aio2025_module4.png){ target=_blank }
+**Certificate:** [Evaluation #43234617](https://lms.aivietnam.edu.vn/verification/accomplishments/43234617){ target=_blank }
 
 ---
 
@@ -67,7 +67,7 @@ lastUpdated: '2026-06-25'
 - Application of genetic algorithms to linear regression
 - Handling randomness in optimization
 
-**Certificate:** [Evaluation #78965801](https://hienlongg.github.io/assets/certificates/aio2025_module5.png){ target=_blank }
+**Certificate:** [Evaluation #78965801](https://lms.aivietnam.edu.vn/verification/accomplishments/78965801){ target=_blank }
 
 ---
 
@@ -78,7 +78,7 @@ lastUpdated: '2026-06-25'
 - Multilayer Perceptron (MLP) for image data
 - MLP for text and tabular data
 
-**Certificate:** [Evaluation #94178311](https://hienlongg.github.io/assets/certificates/aio2025_module6.png){ target=_blank }
+**Certificate:** [Evaluation #94178311](https://lms.aivietnam.edu.vn/verification/accomplishments/94178311){ target=_blank }
 
 ---
 
@@ -90,7 +90,7 @@ lastUpdated: '2026-06-25'
 - Vision Transformer (ViT) for image understanding
 - LSTM and GRU for advanced sequence modeling
 
-**Certificate:** [Evaluation #94746100](https://hienlongg.github.io/assets/certificates/aio2025_module7.png){ target=_blank }
+**Certificate:** [Evaluation #94746100](https://lms.aivietnam.edu.vn/verification/accomplishments/94746100){ target=_blank }
 
 ---
 
