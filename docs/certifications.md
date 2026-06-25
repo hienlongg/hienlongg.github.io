@@ -1,6 +1,6 @@
 ---
 title: 'Certifications'
-lastUpdated: '2026-05-04'
+lastUpdated: '2026-06-25'
 ---
 
 # Certifications
@@ -13,7 +13,7 @@ lastUpdated: '2026-05-04'
 
 ## AIO 2025
 **Organization:** AI Vietnam  
-**Status:** 11 / 12 modules completed
+**Status:** 12 / 12 modules completed
 
 ---
 
@@ -23,7 +23,7 @@ lastUpdated: '2026-05-04'
 - Basic Neural Network concepts: activation functions
 - Object-Oriented Programming with Python (custom PyTorch classes)
 
-**Certificate:** [Evaluation #11241733](../assets/certificates/aio2025_module1.png){ target=_blank }
+**Certificate:** [Evaluation #11241733](https://hienlongg.github.io/assets/certificates/aio2025_module1.png){ target=_blank }
 
 ---
 
@@ -34,7 +34,7 @@ lastUpdated: '2026-05-04'
 - Similarity metrics: cosine similarity for data comparison
 - Naive Bayes classifier implementation and classification
 
-**Certificate:** [Evaluation #71314485](../assets/certificates/aio2025_module2.png){ target=_blank }
+**Certificate:** [Evaluation #71314485](https://hienlongg.github.io/assets/certificates/aio2025_module2.png){ target=_blank }
 
 ---
 
@@ -45,7 +45,7 @@ lastUpdated: '2026-05-04'
 - Decision Trees: both classification and regression problems
 - Practical implementation of tree-based models
 
-**Certificate:** [Evaluation #37233472](../assets/certificates/aio2025_module3.png){ target=_blank }
+**Certificate:** [Evaluation #37233472](https://hienlongg.github.io/assets/certificates/aio2025_module3.png){ target=_blank }
 
 ---
 
@@ -56,7 +56,7 @@ lastUpdated: '2026-05-04'
 - LightGBM and CatBoost for advanced tree-based models
 - Comparison and selection of ensemble methods
 
-**Certificate:** [Evaluation #43234617](../assets/certificates/aio2025_module4.png){ target=_blank }
+**Certificate:** [Evaluation #43234617](https://hienlongg.github.io/assets/certificates/aio2025_module4.png){ target=_blank }
 
 ---
 
@@ -67,7 +67,7 @@ lastUpdated: '2026-05-04'
 - Application of genetic algorithms to linear regression
 - Handling randomness in optimization
 
-**Certificate:** [Evaluation #78965801](../assets/certificates/aio2025_module5.png){ target=_blank }
+**Certificate:** [Evaluation #78965801](https://hienlongg.github.io/assets/certificates/aio2025_module5.png){ target=_blank }
 
 ---
 
@@ -78,7 +78,7 @@ lastUpdated: '2026-05-04'
 - Multilayer Perceptron (MLP) for image data
 - MLP for text and tabular data
 
-**Certificate:** [Evaluation #94178311](../assets/certificates/aio2025_module6.png){ target=_blank }
+**Certificate:** [Evaluation #94178311](https://hienlongg.github.io/assets/certificates/aio2025_module6.png){ target=_blank }
 
 ---
 
@@ -90,7 +90,7 @@ lastUpdated: '2026-05-04'
 - Vision Transformer (ViT) for image understanding
 - LSTM and GRU for advanced sequence modeling
 
-**Certificate:** [Evaluation #94746100](../assets/certificates/aio2025_module7.png){ target=_blank }
+**Certificate:** [Evaluation #94746100](https://hienlongg.github.io/assets/certificates/aio2025_module7.png){ target=_blank }
 
 ---
 
@@ -145,7 +145,18 @@ lastUpdated: '2026-05-04'
 
 ---
 
-### ⏳ Module 12: Coming Soon
-Advanced topics in deep learning specialization and applications.
+### Module 12: RAG, AI Agents & Advanced AI Applications
+- Built a simple Retrieval-Augmented Generation (RAG) system and studied RAG architecture, retrieval workflows, and learning-system applications
+- Explored AI-assisted software testing and practical uses of AI in quality assurance
+- Studied Graph Neural Networks (GNNs) and 3D point-cloud processing
+- Developed AI agents with LLM libraries, tool-calling protocols, and the ReAct reasoning framework
+- Learned recommendation-system concepts through lectures and hands-on exercises
+- Studied Vision-Language Models (VLMs), including pretraining methods and practical applications
+- Explored federated learning for decentralized, privacy-aware model training
+- Practiced interactive data analysis and vibe coding with Claude
+- Studied LLM evaluation, safety, and computer-using AI agents
+- Completed weekly teaching-assistant exercises and the final module exam
+
+**Certificate:** [Evaluation #90919918](https://lms.aivietnam.edu.vn/verification/accomplishments/90919918){ target=_blank }
 
 ---
