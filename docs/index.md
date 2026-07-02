@@ -1,17 +1,17 @@
 ---
-title: 'Trương Hiển Long - IT Student & AI Enthusiast'
+title: 'Trương Hiển Long - AI/ML & Full-Stack Portfolio'
 lastUpdated: '2026-06-25'
 ---
 
 # Trương Hiển Long
 
-## IT Student & AI Enthusiast
+## AI/ML & Full-Stack Engineering
 
-I am an IT student at Ho Chi Minh University of Science specializing in Artificial Intelligence and Machine Learning. With a strong mathematical foundation, I ship production-scale AI systems spanning full-stack development, agentic AI orchestration, and advanced AI harness engineering.
+I am an IT student at Ho Chi Minh University of Science focused on AI/ML and full-stack engineering, with hands-on experience building agentic AI workflows, vector search systems, computer vision pipelines, real-time backends, and browser-based ML tools.
 
-My expertise includes agentic AI systems (multi-agent orchestration, agent-to-agent communication, semantic intent routing), AI harness engineering (controlling AI to generate code, multi-model orchestration, LLM-driven workflows), production backend systems (real-time streaming, WebSocket architecture, distributed systems), and full-stack development (React + TypeScript, Node.js). I've shipped production applications handling LLM agents, AI-powered code synthesis, multi-provider AI integration, vector search, and highly concurrent backends.
+My strongest interests are building practical AI systems that connect model capabilities with reliable software architecture: orchestration, retrieval, streaming interfaces, evaluation loops, and developer-facing tools.
 
-What drives me is engineering elegant solutions at scale—designing agentic pipelines that orchestrate multiple AI models and harness LLMs for code generation, while architecting production systems with deep theoretical understanding and pragmatic implementation. 
+I care about turning complex AI concepts into usable products through clear system design, strong engineering fundamentals, and pragmatic implementation.
 
 
 <!-- [Get PDF version](#){ .md-button .md-button--primary } -->
@@ -97,20 +97,22 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 ---
 
-## 🎓 Education & Project Experience
+## 🎓 Education
 
-### Ho Chi Minh University of Science
+### University of Science, VNU-HCM
 
-**IT Student, Information Technology Major** | _Current_ | **GPA: 3.53/4.0**
+**B.S. in Information Technology** | _2024 - Present_ | **GPA: 3.28/4.0**
 
-- Key Coursework: OOP (C++), Data Structures & Algorithms, Software Engineering, Linear Algebra, Calculus, Statistics, AI/ML, Database Systems
-- Strong mathematical foundation with advanced C++ and full-stack development experience
+- Relevant Coursework: Data Structures & Algorithms, Object-Oriented Programming, Software Engineering, Database Systems, Linear Algebra, Calculus, Statistics, Artificial Intelligence, Machine Learning
+- Academic focus: AI/ML systems, software engineering, and mathematical foundations for computing
 
 ---
 
+## 🚀 Featured Projects
+
 ### TorchViz-3D
 
-**AI/ML Visualization Engineer** | _June 2026 - Current_ | **[GitHub Repository](https://github.com/duongtruongbinh/TorchViz-3D){ target=_blank }**
+**AI/ML Visualization Engineer** | _June 2026 - Current_ | **[torchviz-3d](https://torchviz-3d.vercel.app/)**
 
 <table>
   <thead>
@@ -156,7 +158,7 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 ### Yetty - AI Content Creation Platform
 
-**Full-Stack Developer** | _March 2026 - Current_ | **Production-Ready Platform**
+**Full-Stack Developer** | _March 2026 - Current_ | **[icecone.ai](https://icecone.ai/)**
 
 <table>
   <thead>
@@ -241,8 +243,7 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
             <li>Prepared migration steps for WordPress files, MariaDB database import, DNS configuration, SSL setup, and production environment configuration</li>
             <li>Identified migration risks including large database import, hardcoded local URLs, premium plugin license reactivation, SSL configuration, and theme update safety</li>
             <li>Investigated slow listing pages and identified N+1 <code>get_post_meta()</code> calls across property cards and map pins</li>
-            <li>Found expensive <code>wp_postmeta</code> sorting by <code>prop_featured</code>, duplicated <code>WP_Query</code> execution, and no persistent Redis/Memcached object cache</
-            li>
+            <li>Found expensive <code>wp_postmeta</code> sorting by <code>prop_featured</code>, duplicated <code>WP_Query</code> execution, and no persistent Redis/Memcached object cache</li>
           </ul>
         </td>
       </tr>
@@ -531,20 +532,12 @@ What drives me is engineering elegant solutions at scale—designing agentic pip
 
 ---
 
-### AIO-2025 AI/ML Learning Journey
-
-**AI/ML Student & Practitioner** | _2025 - Current_ | **11/12 Modules Completed**
-
-Intensive theory-focused curriculum: fundamental to advanced ML concepts through mathematical derivation and from-scratch algorithm implementation without high-level libraries.
-
-
-
-## 🎓 Certificates & Education
+## 🏅 Certifications
 
 <table>
   <thead>
     <tr>
-      <th><strong>Certificate/Education</strong></th>
+      <th><strong>Certification</strong></th>
       <th><strong>Institution</strong></th>
       <th><strong>Year</strong></th>
       <th><strong>Details</strong></th>
@@ -552,16 +545,16 @@ Intensive theory-focused curriculum: fundamental to advanced ML concepts through
   </thead>
   <tbody>
     <tr>
-      <td><strong>Sophomore of Information Technology</strong></td>
-      <td>University of Science - VNUHCM</td>
-      <td>2024</td>
-      <td>GPA: 3.53/ 4.0</td>
+      <td><strong>AIO-2025 AI/ML Program</strong></td>
+      <td>AI VIETNAM</td>
+      <td>2025 - 2026</td>
+      <td>12/12 modules completed; theory-focused ML curriculum with mathematical derivations and from-scratch implementations</td>
     </tr>
     <tr>
       <td><strong>IELTS</strong></td>
       <td>The British Council</td>
       <td>2024</td>
-      <td>6.0 (L: 6, R: 7.5, W: 6.5, S: 4.5)</td>
+      <td>6.0</td>
     </tr>
     <tr>
       <td><strong>AWS Cloud Practitioner</strong></td>

@@ -14,7 +14,7 @@ dev_addr: localhost:5001
 
 # Navigation
 nav:
-  - Resume: index.md
+  - Portfolio: index.md
   - Certifications: certifications.md
 
 # Theme configuration
